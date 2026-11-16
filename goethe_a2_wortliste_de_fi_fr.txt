@@ -1,0 +1,1546 @@
+GOETHE-ZERTIFIKAT A2 – WORTLISTE: DEUTSCH | SUOMI | FRANÇAIS
+=============================================================
+Source of the German vocabulary: Goethe-Institut, "Goethe-Zertifikat A2 – Wortliste" (2016)
+https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_A2_Wortliste.pdf
+Finnish and French translations added (A2-level, most common meaning as used in the list).
+
+HOW TO READ
+- Format of each line:  German | Finnish | French
+- German nouns: article + noun, plural ending ("-" = no change, "¨" = umlaut, (Sg.) = singular only, (Pl.) = plural only).
+- German verbs: infinitive, 3rd person singular, perfect.
+- French nouns: le / la / un / une shows the gender. When the article contracts to l',
+  the gender is given at the end: (masculine) / (feminine). The same is done for nouns
+  that are normally used with "les".
+- Finnish has no articles or grammatical gender.
+- ";" separates different meanings, "/" separates alternatives.
+
+
+=====================================================
+PART 1 – WORTGRUPPEN (WORD GROUPS)
+=====================================================
+
+--- Abkürzungen (abbreviations) ---
+ca. (circa) | noin | env. (environ)
+d. h. (das heißt) | eli, se on | c.-à-d. (c'est-à-dire)
+der ICE, -s | ICE-juna (pikajuna) | l'ICE (train à grande vitesse allemand) (masculine)
+der Lkw, -s | kuorma-auto | le camion, le poids lourd
+der PC, -s | tietokone, PC | le PC, l'ordinateur (masculine)
+die SMS, - | tekstiviesti | le SMS, le texto
+usw. (und so weiter) | jne. (ja niin edelleen) | etc. (et cetera)
+das WC, -s | WC, vessa | les WC, les toilettes (les WC: masculine; les toilettes: feminine)
+z. B. (zum Beispiel) | esim. (esimerkiksi) | p. ex. (par exemple)
+
+--- Anweisungssprache zur Prüfung (exam instructions) ---
+der Antwortbogen, ¨- | vastauslomake | la feuille de réponses
+die Aufgabe, -n | tehtävä | l'exercice (masculine); la tâche
+das Beispiel, -e | esimerkki | l'exemple (masculine)
+die Durchsage, -n | kuulutus | l'annonce (feminine)
+die Lösung, -en | ratkaisu | la solution
+markieren, markiert, hat markiert | merkitä | marquer, cocher
+der Prüfer, - / die Prüferin, -nen | tutkinnon vastaanottaja, tentaattori | l'examinateur (masculine) / l'examinatrice (feminine)
+die Prüfung, -en | koe, tentti | l'examen (masculine)
+der Punkt, -e | piste | le point
+der Teil, -e | osa | la partie
+der Test, -s | testi, koe | le test
+der Text, -e | teksti | le texte
+das Wörterbuch, ¨-er | sanakirja | le dictionnaire
+
+--- Berufe (professions) ---
+der Angestellte, -n / die Angestellte, -n | toimihenkilö, työntekijä | l'employé (masculine) / l'employée (feminine)
+der Arzt, ¨-e / die Ärztin, -nen | lääkäri | le médecin / la médecin
+der Auszubildende, -n / die Auszubildende, -n | ammattiopiskelija, oppisopimusopiskelija | l'apprenti (masculine) / l'apprentie (feminine)
+der Autor, -en / die Autorin, -nen | kirjailija, tekijä | l'auteur (masculine) / l'autrice (feminine)
+der Babysitter, - | lapsenvahti | le baby-sitter / la baby-sitter
+der Bäcker, - / die Bäckerin, -nen | leipuri | le boulanger / la boulangère
+der Doktor, -en / die Doktorin, -nen | tohtori, lääkäri | le docteur / la docteure
+der Fahrer, - / die Fahrerin, -nen | kuljettaja | le chauffeur / la chauffeuse; le conducteur / la conductrice
+der Friseur, -e / die Friseurin, -nen | kampaaja, parturi | le coiffeur / la coiffeuse
+der Handwerker, - / die Handwerkerin, -nen | käsityöläinen, korjaaja | l'artisan (masculine) / l'artisane (feminine)
+der Hausmann, ¨-er / die Hausfrau, -en | koti-isä / kotiäiti, kotirouva | l'homme au foyer (masculine) / la femme au foyer
+der Journalist, -en / die Journalistin, -nen | toimittaja | le journaliste / la journaliste
+der Kaufmann, Kaufleute / die Kauffrau, -en | kauppias, merkonomi | le commerçant / la commerçante
+der Kellner, - / die Kellnerin, -nen | tarjoilija | le serveur / la serveuse
+der Koch, ¨-e / die Köchin, -nen | kokki | le cuisinier / la cuisinière
+der Krankenpfleger, - / die Krankenschwester, -n | sairaanhoitaja | l'infirmier (masculine) / l'infirmière (feminine)
+der Künstler, - / die Künstlerin, -nen | taiteilija | l'artiste (masculine) / l'artiste (feminine)
+der Lehrer, - / die Lehrerin, -nen | opettaja | le professeur / la professeure
+der Mechaniker, - / die Mechanikerin, -nen | mekaanikko | le mécanicien / la mécanicienne
+das Model, -s | malli | le mannequin
+der Musiker, - / die Musikerin, -nen | muusikko | le musicien / la musicienne
+der Polizist, -en / die Polizistin, -nen | poliisi | le policier / la policière
+der Rentner, - / die Rentnerin, -nen | eläkeläinen | le retraité / la retraitée
+der Sänger, - / die Sängerin, -nen | laulaja | le chanteur / la chanteuse
+der Schauspieler, - / die Schauspielerin, -nen | näyttelijä | l'acteur (masculine) / l'actrice (feminine)
+der Techniker, - / die Technikerin, -nen | teknikko | le technicien / la technicienne
+der Verkäufer, - / die Verkäuferin, -nen | myyjä | le vendeur / la vendeuse
+
+--- Familienmitglieder (family members) ---
+der Bruder, ¨- | veli | le frère
+der Cousin, -s | serkku (mies) | le cousin
+die Cousine, -n | serkku (nainen) | la cousine
+die Eltern (Pl.) | vanhemmat | les parents (masculine)
+der Enkel, - | lapsenlapsi (poika) | le petit-fils
+die Enkelin, -nen | lapsenlapsi (tyttö) | la petite-fille
+die Geschwister (Pl.) | sisarukset | les frères et sœurs (masculine)
+die Großeltern (Pl.) | isovanhemmat | les grands-parents (masculine)
+die Großmutter, ¨- (die Oma, -s) | isoäiti (mummo) | la grand-mère (la mamie)
+der Großvater, ¨- (der Opa, -s) | isoisä (vaari, ukki) | le grand-père (le papi)
+das Kind, -er | lapsi | l'enfant (masculine / feminine)
+die Mutter, ¨- (die Mama, -s) | äiti | la mère (la maman)
+der Onkel, - | setä, eno | l'oncle (masculine)
+die Schwester, -n | sisko | la sœur
+der Sohn, ¨-e | poika (jonkun lapsi) | le fils
+die Tante, -n | täti | la tante
+die Tochter, ¨- | tytär | la fille
+der Vater, ¨- (der Papa, -s) | isä | le père (le papa)
+der Verwandte, -n / die Verwandte, -n | sukulainen | le parent / la parente (un membre de la famille)
+
+--- Familienstand (marital status) ---
+ledig | naimaton | célibataire
+verheiratet | naimisissa | marié / mariée
+getrennt | asumuserossa, eronnut | séparé / séparée
+geschieden | eronnut | divorcé / divorcée
+
+--- Farben (colours) ---
+blau | sininen | bleu / bleue
+braun | ruskea | marron; brun / brune
+gelb | keltainen | jaune
+grau | harmaa | gris / grise
+grün | vihreä | vert / verte
+lila | violetti, liila | violet / violette
+orange | oranssi | orange
+rosa | vaaleanpunainen | rose
+rot | punainen | rouge
+schwarz | musta | noir / noire
+weiß | valkoinen | blanc / blanche
+
+--- Himmelsrichtungen (points of the compass) ---
+der Norden (Sg.) | pohjoinen | le nord
+der Süden (Sg.) | etelä | le sud
+der Osten (Sg.) | itä | l'est (masculine)
+der Westen (Sg.) | länsi | l'ouest (masculine)
+
+--- Länder und Nationalitäten (countries and nationalities) ---
+Deutschland | Saksa | l'Allemagne (feminine)
+der Deutsche, -n / die Deutsche, -n | saksalainen | l'Allemand (masculine) / l'Allemande (feminine)
+deutsch | saksalainen | allemand / allemande
+auf Deutsch | saksaksi | en allemand
+Österreich | Itävalta | l'Autriche (feminine)
+der Österreicher, - / die Österreicherin, -nen | itävaltalainen | l'Autrichien (masculine) / l'Autrichienne (feminine)
+österreichisch | itävaltalainen | autrichien / autrichienne
+die Schweiz | Sveitsi | la Suisse
+der Schweizer, - / die Schweizerin, -nen | sveitsiläinen | le Suisse / la Suissesse
+schweizerisch | sveitsiläinen | suisse
+Luxemburg | Luxemburg | le Luxembourg
+der Luxemburger, - / die Luxemburgerin, -nen | luxemburgilainen | le Luxembourgeois / la Luxembourgeoise
+luxemburgisch | luxemburgilainen | luxembourgeois / luxembourgeoise
+Europa | Eurooppa | l'Europe (feminine)
+der Europäer, - / die Europäerin, -nen | eurooppalainen | l'Européen (masculine) / l'Européenne (feminine)
+europäisch | eurooppalainen | européen / européenne
+
+--- Schule und Schulfächer (school and school subjects) ---
+das Abitur (Sg.) | ylioppilastutkinto | le baccalauréat (le bac)
+der Direktor, -en / die Direktorin, -nen | rehtori, johtaja | le directeur / la directrice
+die Hausaufgabe, -n | kotitehtävä, läksy | le devoir (les devoirs: masculine)
+die Klasse, -n | luokka | la classe
+die Klassenfahrt, -en | luokkaretki | le voyage scolaire
+das Sekretariat, -e | kanslia, sihteeristö | le secrétariat
+der Stundenplan, ¨-e | lukujärjestys | l'emploi du temps (masculine)
+Biologie | biologia | la biologie
+Chemie | kemia | la chimie
+Deutsch | saksa (saksan kieli) | l'allemand (masculine)
+Englisch | englanti | l'anglais (masculine)
+Französisch | ranska | le français
+Geografie | maantieto | la géographie
+Geschichte | historia | l'histoire (feminine)
+Kunst(erziehung) | kuvataide, kuvaamataito | les arts plastiques (masculine)
+Latein | latina | le latin
+Mathematik | matematiikka | les mathématiques (feminine)
+Musik | musiikki | la musique
+Physik | fysiikka | la physique
+Religion | uskonto | la religion
+Sozialkunde | yhteiskuntaoppi | l'éducation civique (feminine)
+Sport | liikunta | le sport, l'éducation physique (feminine)
+
+--- Währungen und Maße (currencies and measures) ---
+der Euro, -s (1 Euro = 100 Cent) | euro | l'euro (masculine)
+der Cent, -s | sentti | le centime, le cent
+der Franken, - (1 Franken = 100 Rappen) | frangi | le franc (suisse)
+der Rappen, - | rappen (sveitsiläinen sentti) | le centime (suisse)
+der Meter, - (1 m) | metri | le mètre
+ein Meter fünfzig (1,50 m) | metri viisikymmentä | un mètre cinquante
+der Zentimeter, - (1 cm) | senttimetri | le centimètre
+der Kilometer, - (1 km) | kilometri | le kilomètre
+das Prozent, -e (1 %) | prosentti | le pour cent (pour cent)
+der Liter, - (1 l) | litra | le litre
+das Gramm, - (1 g) | gramma | le gramme
+das Kilogramm, - / das Kilo, -s (1 kg) | kilogramma, kilo | le kilogramme, le kilo
+der Grad, -e (10 Grad Celsius) | aste (10 celsiusastetta) | le degré (10 degrés Celsius)
+
+--- Zeitangaben: Datum (dates) ---
+das Datum, Daten | päivämäärä | la date
+1848 = achtzehnhundertachtundvierzig | tuhat kahdeksansataa neljäkymmentäkahdeksan | mille huit cent quarante-huit
+Heute ist der 20.2.2012 (der zwanzigste zweite zweitausendzwölf) | Tänään on 20.2.2012 (kahdeskymmenes helmikuuta kaksituhattakaksitoista) | Aujourd'hui, c'est le 20 février 2012 (le vingt février deux mille douze)
+Berlin, 14.3.2013 (vierzehnter dritter zweitausenddreizehn) | Berliinissä 14.3.2013 | Berlin, le 14 mars 2013
+
+--- Feiertage (holidays) ---
+der Karneval (Sg.) | karnevaali, laskiainen | le carnaval
+Ostern | pääsiäinen | Pâques (feminine plural, used without article)
+Weihnachten | joulu | Noël (masculine, used without article)
+das Neujahr (Sg.) | uusivuosi, uudenvuodenpäivä | le Nouvel An, le jour de l'An
+der/das Silvester (Sg.) | uudenvuodenaatto | la Saint-Sylvestre, le réveillon du Nouvel An
+
+--- Jahreszeiten (seasons) ---
+der Frühling, -e / das Frühjahr, -e | kevät | le printemps
+der Sommer, - | kesä | l'été (masculine)
+der Herbst, -e | syksy | l'automne (masculine)
+der Winter, - | talvi | l'hiver (masculine)
+
+--- Monate (months) ---
+der Januar | tammikuu | janvier (masculine)
+der Februar | helmikuu | février (masculine)
+der März | maaliskuu | mars (masculine)
+der April | huhtikuu | avril (masculine)
+der Mai | toukokuu | mai (masculine)
+der Juni | kesäkuu | juin (masculine)
+der Juli | heinäkuu | juillet (masculine)
+der August | elokuu | août (masculine)
+der September | syyskuu | septembre (masculine)
+der Oktober | lokakuu | octobre (masculine)
+der November | marraskuu | novembre (masculine)
+der Dezember | joulukuu | décembre (masculine)
+
+--- Tageszeiten (times of day) ---
+der Tag, -e | päivä | le jour, la journée
+der Morgen, - | aamu | le matin
+der Vormittag, -e | aamupäivä | la matinée, le matin
+der Mittag, -e | keskipäivä | le midi
+der Nachmittag, -e | iltapäivä | l'après-midi (masculine)
+der Abend, -e | ilta | le soir, la soirée
+die Nacht, ¨-e | yö | la nuit
+die Mitternacht (Sg.) | keskiyö | minuit (masculine, used without article)
+täglich | päivittäin | tous les jours, quotidien / quotidienne
+tagsüber | päivisin, päivän aikana | pendant la journée
+morgens, am Morgen | aamuisin, aamulla | le matin
+vormittags, am Vormittag | aamupäivisin, aamupäivällä | le matin, dans la matinée
+mittags, am Mittag | keskipäivällä | à midi
+nachmittags, am Nachmittag | iltapäivisin, iltapäivällä | l'après-midi
+abends, am Abend | iltaisin, illalla | le soir
+nachts, in der Nacht | öisin, yöllä | la nuit
+um Mitternacht | keskiyöllä | à minuit
+
+--- Uhrzeit (clock time) ---
+07.03 = sieben Uhr drei | kolme yli seitsemän | sept heures trois
+3.15 = drei Uhr fünfzehn | kolme viisitoista, vartin yli kolme | trois heures quinze
+15.30 = fünfzehn Uhr dreißig / halb vier | viisitoista kolmekymmentä / puoli neljä | quinze heures trente / trois heures et demie
+24.00 = vierundzwanzig Uhr | kaksikymmentäneljä nolla nolla | vingt-quatre heures (minuit)
+13.00 = dreizehn Uhr / ein Uhr | kello kolmetoista / kello yksi | treize heures / une heure
+11.30 = halb zwölf | puoli kaksitoista | onze heures et demie
+14.05 = vierzehn Uhr fünf / fünf nach zwei | viisi yli kaksi | quatorze heures cinq / deux heures cinq
+14.55 = vierzehn Uhr fünfundfünfzig / fünf vor drei | viittä vaille kolme | quatorze heures cinquante-cinq / trois heures moins cinq
+10.15 = Viertel nach zehn | vartin yli kymmenen | dix heures et quart
+6.45 = Viertel vor sieben | varttia vaille seitsemän | sept heures moins le quart
+20.40 = zwanzig Uhr vierzig / zwanzig vor neun | kahtakymmentä vaille yhdeksän | vingt heures quarante / neuf heures moins vingt
+
+--- Wochentage (days of the week) ---
+am Wochenende | viikonloppuna | le week-end
+das Wochenende, -n | viikonloppu | le week-end
+montags, am Montag | maanantaisin, maanantaina | le lundi, lundi
+dienstags, am Dienstag | tiistaisin, tiistaina | le mardi, mardi
+mittwochs, am Mittwoch | keskiviikkoisin, keskiviikkona | le mercredi, mercredi
+donnerstags, am Donnerstag | torstaisin, torstaina | le jeudi, jeudi
+freitags, am Freitag | perjantaisin, perjantaina | le vendredi, vendredi
+samstags, am Samstag | lauantaisin, lauantaina | le samedi, samedi
+sonntags, am Sonntag | sunnuntaisin, sunnuntaina | le dimanche, dimanche
+der Arbeitstag, -e / der Werktag, -e | työpäivä / arkipäivä | le jour de travail / le jour ouvrable
+der Feiertag, -e | pyhäpäivä, juhlapäivä | le jour férié
+
+--- Zeitmaße (units of time) ---
+die Sekunde, -n | sekunti | la seconde
+die Minute, -n | minuutti | la minute
+die Stunde, -n | tunti | l'heure (feminine)
+die Woche, -n | viikko | la semaine
+das Jahr, -e | vuosi | l'an (masculine), l'année (feminine)
+
+--- Zahlen (numbers) ---
+1 = eins | yksi | un / une
+2 = zwei | kaksi | deux
+3 = drei | kolme | trois
+4 = vier | neljä | quatre
+5 = fünf | viisi | cinq
+6 = sechs | kuusi | six
+7 = sieben | seitsemän | sept
+8 = acht | kahdeksan | huit
+9 = neun | yhdeksän | neuf
+10 = zehn | kymmenen | dix
+11 = elf | yksitoista | onze
+12 = zwölf | kaksitoista | douze
+13 = dreizehn | kolmetoista | treize
+14 = vierzehn | neljätoista | quatorze
+15 = fünfzehn | viisitoista | quinze
+16 = sechzehn | kuusitoista | seize
+17 = siebzehn | seitsemäntoista | dix-sept
+18 = achtzehn | kahdeksantoista | dix-huit
+19 = neunzehn | yhdeksäntoista | dix-neuf
+20 = zwanzig | kaksikymmentä | vingt
+21 = einundzwanzig | kaksikymmentäyksi | vingt et un
+30 = dreißig | kolmekymmentä | trente
+40 = vierzig | neljäkymmentä | quarante
+50 = fünfzig | viisikymmentä | cinquante
+60 = sechzig | kuusikymmentä | soixante
+70 = siebzig | seitsemänkymmentä | soixante-dix
+80 = achtzig | kahdeksankymmentä | quatre-vingts
+90 = neunzig | yhdeksänkymmentä | quatre-vingt-dix
+100 = (ein)hundert | sata | cent
+101 = hunderteins | satayksi | cent un
+200 = zweihundert | kaksisataa | deux cents
+1000 = (ein)tausend | tuhat | mille
+2001 = zweitausendeins | kaksituhattayksi | deux mille un
+1 000 000 = eine Million | miljoona | un million
+der/die erste | ensimmäinen | le premier / la première
+der/die zweite | toinen | le deuxième / la deuxième
+der/die dritte | kolmas | le troisième / la troisième
+der/die vierte | neljäs | le quatrième / la quatrième
+erstens | ensinnäkin | premièrement
+zweitens | toiseksi | deuxièmement
+drittens | kolmanneksi | troisièmement
+viertens | neljänneksi | quatrièmement
+einmal | kerran | une fois
+zweimal | kaksi kertaa | deux fois
+dreimal | kolme kertaa | trois fois
+viermal | neljä kertaa | quatre fois
+
+
+=====================================================
+PART 2 – ALPHABETISCHER WORTSCHATZ (ALPHABETICAL VOCABULARY)
+=====================================================
+
+--- A ---
+ab | alkaen, -sta lähtien | à partir de
+aber | mutta | mais
+abgeben, gibt ab, hat abgegeben | jättää, luovuttaa, palauttaa | remettre, rendre, déposer
+abholen, holt ab, hat abgeholt | noutaa, hakea | aller chercher, venir chercher
+abschließen, schließt ab, hat abgeschlossen | lukita; suorittaa loppuun | fermer à clé; terminer (ses études)
+Achtung (Sg.) | huomio, varo | attention
+die Adresse, -n | osoite | l'adresse (feminine)
+die Ahnung, -en | aavistus | l'idée (feminine) (keine Ahnung = aucune idée)
+aktiv | aktiivinen | actif / active
+aktuell | ajankohtainen | actuel / actuelle
+all- (alle, alles) | kaikki | tout / toute / tous / toutes
+allein | yksin | seul / seule
+als | kuin; -na/-nä (jonakin) | que (comparaison); comme, en tant que
+also | siis, eli | donc, alors
+alt | vanha | vieux / vieille; âgé / âgée
+das Alter (Sg.) | ikä | l'âge (masculine)
+die Ampel, -n | liikennevalo | le feu (de circulation)
+an | -lla/-llä, luona, ääressä; päällä | à, au bord de; allumé
+anbieten, bietet an, hat angeboten | tarjota | offrir, proposer
+das Angebot, -e | tarjous | l'offre (feminine)
+ander- | toinen, muu | autre
+ändern, ändert, hat geändert | muuttaa | changer, modifier
+anders | toisin, erilainen | autrement, différent / différente
+anfangen, fängt an, hat angefangen | alkaa, aloittaa | commencer
+der Anfang, ¨-e | alku | le début
+die Angst, ¨-e | pelko | la peur
+ankommen, kommt an, ist angekommen | saapua | arriver
+die Ankunft, ¨-e | saapuminen, tulo | l'arrivée (feminine)
+anmachen, macht an, hat angemacht | sytyttää, panna päälle | allumer
+anmelden (sich), meldet an, hat angemeldet | ilmoittautua, ilmoittaa | s'inscrire, inscrire
+die Anmeldung, -en | ilmoittautuminen | l'inscription (feminine)
+der Anrufbeantworter, - | puhelinvastaaja | le répondeur
+anrufen, ruft an, hat angerufen | soittaa (puhelimella) | appeler, téléphoner à
+der Anruf, -e | puhelu, soitto | l'appel (masculine), le coup de téléphone
+der Anschluss, ¨-e | jatkoyhteys; liitäntä | la correspondance; le raccordement, le branchement
+ansehen, sieht an, hat angesehen | katsoa, katsella | regarder
+antworten, antwortet, hat geantwortet | vastata | répondre
+die Antwort, -en | vastaus | la réponse
+die Anzeige, -n | ilmoitus (lehdessä) | l'annonce (feminine)
+der Anzug, ¨-e | puku (miesten) | le costume
+der Apfel, ¨- | omena | la pomme
+die Apotheke, -n | apteekki | la pharmacie
+der Apparat, -e | laite, koje | l'appareil (masculine)
+arbeiten, arbeitet, hat gearbeitet | työskennellä, tehdä töitä | travailler
+die Arbeit, -en | työ | le travail
+arbeitslos | työtön | au chômage, sans emploi
+ärgern (sich), ärgert, hat geärgert | suuttua, olla ärtynyt; ärsyttää | se fâcher, s'énerver; énerver
+arm | köyhä | pauvre
+der Arm, -e | käsivarsi | le bras
+der Artikel, - | artikkeli | l'article (masculine)
+auch | myös, -kin | aussi
+auf | päällä, päälle; auki | sur; ouvert
+auf jeden Fall / auf keinen Fall | joka tapauksessa / ei missään tapauksessa | en tout cas, absolument / en aucun cas
+aufhören, hört auf, hat aufgehört | lopettaa, lakata | arrêter, cesser
+aufmachen, macht auf, hat aufgemacht | avata | ouvrir
+aufpassen, passt auf, hat aufgepasst | varoa, olla tarkkana; pitää huolta | faire attention; surveiller, garder
+aufräumen, räumt auf, hat aufgeräumt | siivota, järjestää | ranger
+aufregend | jännittävä | passionnant / passionnante, excitant / excitante
+aufstehen, steht auf, ist aufgestanden | nousta ylös | se lever
+der Aufzug, ¨-e | hissi | l'ascenseur (masculine)
+das Auge, -n | silmä | l'œil (masculine) (pluriel: les yeux)
+aus | -sta/-stä (jostakin); pois päältä | de; en (matière); éteint
+die Ausbildung, -en | koulutus, ammattikoulutus | la formation
+der Ausflug, ¨-e | retki | l'excursion (feminine)
+ausfüllen, füllt aus, hat ausgefüllt | täyttää (lomake) | remplir (un formulaire)
+der Ausgang, ¨-e | uloskäynti | la sortie
+ausgeben, gibt aus, hat ausgegeben | kuluttaa, käyttää (rahaa) | dépenser
+ausgehen, geht aus, ist ausgegangen | mennä ulos (huvittelemaan); sammua | sortir; s'éteindre
+die Auskunft, ¨-e | tieto, neuvonta | le renseignement
+das Ausland (Sg.) | ulkomaat | l'étranger (masculine)
+ausmachen, macht aus, hat ausgemacht | sammuttaa | éteindre
+auspacken, packt aus, hat ausgepackt | purkaa (laukku, paketti) | déballer, défaire (une valise)
+ausruhen (sich), ruht aus, hat ausgeruht | levätä | se reposer
+aussehen, sieht aus, hat ausgesehen | näyttää (joltakin) | avoir l'air, ressembler à
+außer | paitsi | sauf, à part
+außerdem | lisäksi | en plus, en outre
+außerhalb | ulkopuolella | en dehors de, à l'extérieur de
+aussprechen, spricht aus, hat ausgesprochen | ääntää, lausua | prononcer
+aussteigen, steigt aus, ist ausgestiegen | nousta pois (kulkuvälineestä) | descendre (d'un véhicule)
+die Ausstellung, -en | näyttely | l'exposition (feminine)
+austragen, trägt aus, hat ausgetragen | jakaa (posti, lehdet) | distribuer (le courrier, les journaux)
+der Ausweis, -e | henkilökortti, henkilötodistus | la carte d'identité, la pièce d'identité
+das Auto, -s | auto | la voiture
+die Autobahn, -en | moottoritie | l'autoroute (feminine)
+der Automat, -en | automaatti | le distributeur (automatique)
+automatisch | automaattinen | automatique
+
+--- B ---
+das Baby, -s | vauva | le bébé
+der Babysitter, - | lapsenvahti | le baby-sitter / la baby-sitter
+backen, bäckt/backt, hat gebacken | leipoa | faire (un gâteau, du pain), cuire au four
+die Bäckerei, -en | leipomo | la boulangerie
+das Bad, ¨-er | kylpyhuone; kylpy | la salle de bains; le bain
+baden, badet, hat gebadet | kylpeä; uida | prendre un bain; se baigner
+die Bahn, -en | juna, rautatie | le train, le chemin de fer
+der Bahnhof, ¨-e | rautatieasema | la gare
+der Bahnsteig, -e | asemalaituri | le quai
+bald | pian | bientôt
+der Balkon, -e | parveke | le balcon
+der Ball, ¨-e | pallo | le ballon, la balle
+die Banane, -n | banaani | la banane
+die Band, -s | bändi, yhtye | le groupe (de musique)
+die Bank, -en | pankki | la banque
+die Bank, ¨-e | penkki | le banc
+bar | käteisellä | en espèces, en liquide
+der Basketball, ¨-e | koripallo | le basket-ball; le ballon de basket
+basteln, bastelt, hat gebastelt | askarrella | bricoler, faire du bricolage
+der Bauch, ¨-e | vatsa | le ventre
+bauen, baut, hat gebaut | rakentaa | construire
+der Baum, ¨-e | puu | l'arbre (masculine)
+die Baustelle, -n | rakennustyömaa | le chantier
+beantworten, beantwortet, hat beantwortet | vastata (johonkin) | répondre à
+bedanken (sich), bedankt, hat bedankt | kiittää | remercier
+bedeuten, bedeutet, hat bedeutet | tarkoittaa, merkitä | signifier, vouloir dire
+beeilen (sich), beeilt, hat beeilt | kiirehtiä, pitää kiirettä | se dépêcher
+beenden, beendet, hat beendet | lopettaa, päättää | terminer, finir
+beginnen, beginnt, hat begonnen | alkaa, aloittaa | commencer
+begründen, begründet, hat begründet | perustella | justifier, expliquer
+bei | luona, lähellä, yhteydessä | chez, près de
+beide | molemmat | les deux, tous les deux / toutes les deux
+das Bein, -e | jalka, sääri | la jambe
+bekannt | tunnettu | connu / connue
+der Bekannte, -n / die Bekannte, -n | tuttava | la connaissance, l'ami (masculine) / l'amie (feminine)
+bekommen, bekommt, hat bekommen | saada | recevoir, obtenir
+beliebt | suosittu | populaire, apprécié / appréciée
+benutzen, benutzt, hat benutzt | käyttää | utiliser
+bequem | mukava | confortable
+beraten, berät, hat beraten | neuvoa | conseiller
+der Berg, -e | vuori | la montagne
+berichten, berichtet, hat berichtet | kertoa, raportoida | raconter, rapporter
+der Beruf, -e | ammatti | le métier, la profession
+berühmt | kuuluisa | célèbre
+der Bescheid (Bescheid bekommen / geben / sagen) | tieto, ilmoitus (saada tieto / ilmoittaa) | l'information (feminine) (être informé / prévenir, informer)
+beschreiben, beschreibt, hat beschrieben | kuvailla | décrire
+beschweren (sich), beschwert, hat beschwert | valittaa | se plaindre
+besetzt | varattu | occupé / occupée
+besichtigen, besichtigt, hat besichtigt | käydä katsomassa, tutustua (nähtävyyteen) | visiter
+besonders | erityisesti, erityisen | particulièrement, surtout
+bestätigen, bestätigt, hat bestätigt | vahvistaa | confirmer
+bestehen, besteht, hat bestanden | läpäistä (koe) | réussir (un examen)
+bestellen, bestellt, hat bestellt | tilata | commander
+der Besuch, -e | vierailu; vieraat | la visite
+besuchen, besucht, hat besucht | vierailla, käydä (jonkun luona, jossakin) | rendre visite à; visiter; fréquenter (une école)
+das Bett, -en | sänky | le lit
+bewerben (sich), bewirbt, hat beworben | hakea (työpaikkaa) | poser sa candidature, postuler
+die Bewerbung, -en | työhakemus | la candidature
+bewölkt | pilvinen | nuageux / nuageuse
+die Wolke, -n | pilvi | le nuage
+bezahlen, bezahlt, hat bezahlt | maksaa | payer
+die Bibliothek, -en | kirjasto | la bibliothèque
+das Bier, -e | olut | la bière
+das Bild, -er | kuva, taulu | l'image (feminine); le tableau
+billig | halpa | bon marché, pas cher / pas chère
+die Birne, -n | päärynä | la poire
+bis | asti, saakka | jusqu'à
+bisschen (ein bisschen) | vähän | un peu
+bitte | ole hyvä; kiitos (pyydettäessä) | s'il vous plaît, s'il te plaît; je vous en prie
+die Bitte, -n | pyyntö | la demande, la prière
+bitten, bittet, hat gebeten | pyytää | demander, prier
+bitter | karvas, kitkerä | amer / amère
+das Blatt, ¨-er | lehti (puun); paperiarkki | la feuille
+bleiben, bleibt, ist geblieben | jäädä, pysyä | rester
+der Bleistift, -e | lyijykynä | le crayon
+blöd | tyhmä, typerä | bête, idiot / idiote
+der/das Blog, -s | blogi | le blog
+blond | vaalea(hiuksinen) | blond / blonde
+die Blume, -n | kukka | la fleur
+die Bluse, -n | pusero | le chemisier
+die Bohne, -n | papu | le haricot
+böse | vihainen; paha | fâché / fâchée; méchant / méchante
+braten, brät, hat gebraten | paistaa | faire cuire, rôtir, faire griller
+brauchen, braucht, hat gebraucht | tarvita | avoir besoin de
+der Brief, -e | kirje | la lettre
+die Briefmarke, -n | postimerkki | le timbre
+die Brille, -n | silmälasit | les lunettes (feminine)
+bringen, bringt, hat gebracht | tuoda, viedä | apporter, amener
+das Brot, -e | leipä | le pain
+das Brötchen, - | sämpylä | le petit pain
+die Brücke, -n | silta | le pont
+das Buch, ¨-er | kirja | le livre
+buchen, bucht, hat gebucht | varata (matka, lento) | réserver
+der Buchstabe, -n | kirjain | la lettre (de l'alphabet)
+buchstabieren, buchstabiert, hat buchstabiert | tavata (kirjain kirjaimelta) | épeler
+bunt | värikäs, kirjava | coloré / colorée, multicolore
+das Büro, -s | toimisto | le bureau
+der Bus, -se | bussi, linja-auto | le bus, l'autobus (masculine)
+die Butter (Sg.) | voi | le beurre
+
+--- C ---
+das Café, -s | kahvila | le café
+die Cafeteria, -s | kahvio | la cafétéria
+chatten, chattet, hat gechattet | chatata | tchatter, discuter en ligne
+der Chef, -s / die Chefin, -nen | pomo, esimies | le chef / la cheffe, le patron / la patronne
+der Club, -s / der Klub, -s | klubi, kerho | le club
+der/das Comic, -s | sarjakuva | la bande dessinée (la BD)
+der Computer, - | tietokone | l'ordinateur (masculine)
+die Creme, -s/-n | voide | la crème
+
+--- D ---
+da | siellä, tuolla; silloin; koska | là; alors; comme, puisque
+da(r)- (z. B. darauf, darüber) | sen päällä, siitä, sen yli (pronominaaliadverbit) | dessus, là-dessus, en, y (adverbes pronominaux)
+dabei sein, ist dabei, war dabei, ist dabei gewesen | olla mukana | être présent / présente, participer, en être
+dafür sein / dagegen sein, ist dafür/dagegen, war dafür/dagegen, ist dafür/dagegen gewesen | olla puolesta / olla vastaan | être pour / être contre
+damals | silloin, siihen aikaan | à l'époque, autrefois
+die Dame, -n | nainen, rouva, daami | la dame
+daneben | vieressä | à côté
+der Dank (Sg.) | kiitos | le remerciement, merci
+danke | kiitos | merci
+danken, dankt, hat gedankt | kiittää | remercier
+dann | sitten | puis, ensuite, alors
+dass | että | que
+die Datei, -en | tiedosto | le fichier
+das Datum, Daten | päivämäärä | la date
+dauern, dauert, hat gedauert | kestää | durer
+denken, denkt, hat gedacht | ajatella | penser
+denn | sillä, koska; -han/-hän, oikein (kysymyksessä) | car; donc (dans une question)
+deshalb | siksi | c'est pourquoi, donc
+deutlich | selvä, selvästi | clair / claire, clairement, distinctement
+dick | paksu, lihava | gros / grosse, épais / épaisse
+das Ding, -e | esine, asia | la chose, l'objet (masculine)
+direkt | suora, suoraan | direct / directe, directement
+die Disco, -s / die Disko, -s | disko | la discothèque, la boîte (de nuit)
+diskutieren, diskutiert, hat diskutiert | keskustella, väitellä | discuter
+doch | kyllä(pä), kuitenkin; -han/-hän | si (réponse à une question négative); pourtant, quand même
+das Doppelzimmer, - | kahden hengen huone | la chambre double
+das Dorf, ¨-er | kylä | le village
+dort, dorther, dorthin | siellä, sieltä, sinne | là-bas, de là-bas, (vers) là-bas
+draußen | ulkona | dehors
+dringend | kiireellinen | urgent / urgente
+drinnen | sisällä | dedans, à l'intérieur
+drüben | tuolla puolen, toisella puolella | de l'autre côté, là-bas
+drücken, drückt, hat gedrückt | painaa; työntää (ovea) | appuyer; pousser
+drucken, druckt, hat gedruckt | tulostaa, painaa | imprimer
+der Drucker, - | tulostin | l'imprimante (feminine)
+dumm | tyhmä | bête, stupide
+dunkel | pimeä, tumma | sombre, foncé / foncée
+dünn | ohut, laiha | mince, fin / fine
+durch | läpi, kautta | à travers, par
+dürfen, darf, durfte, hat gedurft | saada (lupa), saada tehdä | avoir le droit de, pouvoir
+der Durst (Sg.) | jano | la soif
+die Dusche, -n | suihku | la douche
+duschen (sich), duscht, hat geduscht | käydä suihkussa | se doucher, prendre une douche
+
+--- E ---
+das E-Book, -s | e-kirja | le livre numérique, l'e-book (masculine)
+echt | aito; todella | vrai / vraie, authentique; vraiment
+die Ecke, -n | kulma, nurkka | le coin, l'angle (masculine)
+egal | samantekevä, yhdentekevä | égal (ça m'est égal)
+die Ehefrau, -en | vaimo, aviovaimo | l'épouse (feminine), la femme
+der Ehemann, ¨-er | aviomies | l'époux (masculine), le mari
+der Ehepartner, - | aviopuoliso | le conjoint / la conjointe
+das Ei, -er | muna | l'œuf (masculine)
+eigen- | oma | propre (mon propre…)
+eigentlich | oikeastaan | en fait, à vrai dire
+eilig | kiireinen, kiireellinen | pressé / pressée, urgent / urgente
+einfach | yksinkertainen, helppo; yksinkertaisesti; menolippu | simple, facile; simplement; aller simple
+der Eingang, ¨-e | sisäänkäynti | l'entrée (feminine)
+einig- (einige) | jotkut, muutamat | quelques, certains / certaines
+einkaufen, kauft ein, hat eingekauft | käydä ostoksilla, ostaa | faire les courses, faire des achats
+das Einkaufszentrum, Einkaufszentren | ostoskeskus, kauppakeskus | le centre commercial
+einladen, lädt ein, hat eingeladen | kutsua | inviter
+die Einladung, -en | kutsu | l'invitation (feminine)
+einmal | kerran | une fois
+einpacken, packt ein, hat eingepackt | pakata; paketoida | emballer; mettre dans la valise
+einsteigen, steigt ein, ist eingestiegen | nousta kyytiin | monter (dans un véhicule)
+eintragen (sich), trägt ein, hat eingetragen | kirjoittaa (nimensä listaan), merkitä | (s')inscrire, noter
+der Eintritt, -e | sisäänpääsy, pääsymaksu | l'entrée (feminine)
+einverstanden sein, ist einverstanden, war einverstanden, ist einverstanden gewesen | olla samaa mieltä, suostua | être d'accord
+einzel- (z. B. Einzelzimmer) | yksittäinen, yhden hengen | individuel / individuelle, simple (p. ex. chambre simple)
+einziehen, zieht ein, ist eingezogen | muuttaa (asuntoon) | emménager
+das Eis (Sg.) | jäätelö; jää | la glace
+die E-Mail, -s / die Mail, -s | sähköposti | l'e-mail (masculine), le courriel
+der Empfänger, - | vastaanottaja | le destinataire
+empfehlen, empfiehlt, hat empfohlen | suositella | recommander, conseiller
+das Ende, -n | loppu | la fin
+enden, endet, hat geendet | loppua, päättyä | finir, se terminer
+endlich | vihdoin | enfin
+eng | ahdas, kapea, tiukka | étroit / étroite, serré / serrée
+entschuldigen (sich), entschuldigt, hat entschuldigt | pyytää anteeksi; antaa anteeksi | (s')excuser
+die Entschuldigung, -en | anteeksipyyntö; anteeksi | l'excuse (feminine); pardon
+das Erdgeschoss, -e | pohjakerros, katutaso | le rez-de-chaussée
+die Erfahrung, -en | kokemus | l'expérience (feminine)
+erinnern (sich), erinnert, hat erinnert | muistaa; muistuttaa | se souvenir, se rappeler; rappeler
+erkältet sein, ist erkältet, war erkältet, ist erkältet gewesen | olla vilustunut, olla flunssassa | être enrhumé / enrhumée
+erklären, erklärt, hat erklärt | selittää | expliquer
+erlauben, erlaubt, hat erlaubt | sallia, antaa lupa | permettre, autoriser
+erlaubt sein, ist erlaubt, war erlaubt, ist erlaubt gewesen | olla sallittua | être permis, être autorisé
+die Erlaubnis (Sg.) | lupa | la permission, l'autorisation (feminine)
+die Ermäßigung, -en | alennus | la réduction
+erreichen, erreicht, hat erreicht | tavoittaa; ehtiä (junaan); saavuttaa | joindre; attraper (un train); atteindre
+erst | vasta; ensin | seulement, ne … que; d'abord
+der Erwachsene, -n / die Erwachsene, -n | aikuinen | l'adulte (masculine / feminine)
+erzählen, erzählt, hat erzählt | kertoa | raconter
+essen, isst, hat gegessen | syödä | manger
+das Essen, - | ruoka, ateria | le repas, la nourriture
+etwas | jotakin; vähän | quelque chose; un peu
+
+--- F ---
+das Fach, ¨-er | oppiaine; lokero | la matière (scolaire); le casier
+fahren, fährt, ist gefahren | ajaa, matkustaa, mennä (kulkuvälineellä) | aller (en véhicule), conduire, rouler
+abfahren, fährt ab, ist abgefahren | lähteä (kulkuvälineestä) | partir
+die Abfahrt, -en | lähtö | le départ
+die Fahrkarte, -n | matkalippu | le billet, le ticket
+der Fahrplan, ¨-e | aikataulu | l'horaire (masculine)
+das Fahrrad, ¨-er / das Rad, ¨-er | polkupyörä / pyörä | le vélo, la bicyclette
+fallen, fällt, ist gefallen | pudota, kaatua | tomber
+falsch | väärä, väärin | faux / fausse
+die Familie, -n | perhe | la famille
+der Familienname, -n | sukunimi | le nom de famille
+der Fan, -s | fani | le fan / la fan
+fantastisch | fantastinen, upea | fantastique
+die Farbe, -n | väri | la couleur
+fast | melkein | presque
+faul | laiska | paresseux / paresseuse
+fehlen, fehlt, hat gefehlt | puuttua, olla poissa | manquer, être absent / absente
+der Fehler, - | virhe | la faute, l'erreur (feminine)
+die Feier, -n (z. B. Feierabend, Feiertag) | juhla (esim. työpäivän päättyminen, pyhäpäivä) | la fête (p. ex. la fin de la journée de travail, le jour férié)
+feiern, feiert, hat gefeiert | juhlia | fêter, faire la fête
+das Fenster, - | ikkuna | la fenêtre
+die Ferien (Pl.) | loma (koulun) | les vacances (feminine)
+fernsehen, sieht fern, hat ferngesehen | katsoa televisiota | regarder la télévision
+der Fernseher, - | televisio | le téléviseur, la télé
+fertig sein, ist fertig, war fertig, ist fertig gewesen | olla valmis | être prêt / prête, avoir fini
+das Fest, -e | juhla | la fête
+das Festival, -s | festivaali | le festival
+fett | rasvainen | gras / grasse
+das Fieber (Sg.) | kuume | la fièvre
+der Film, -e | elokuva, filmi | le film
+finden, findet, hat gefunden | löytää; pitää jonakin | trouver
+die Firma, Firmen | yritys, firma | l'entreprise (feminine), la société
+der Fisch, -e | kala | le poisson
+fit sein, ist fit, war fit, ist fit gewesen | olla hyvässä kunnossa | être en forme
+die Flasche, -n | pullo | la bouteille
+das Fleisch (Sg.) | liha | la viande
+fleißig | ahkera | travailleur / travailleuse, appliqué / appliquée
+fliegen, fliegt, ist geflogen | lentää | voler, prendre l'avion
+abfliegen, fliegt ab, ist abgeflogen | lähteä (lentokoneella) | décoller, partir (en avion)
+der Flohmarkt, ¨-e | kirpputori | le marché aux puces
+der Flug, ¨-e | lento | le vol
+der Flughafen, ¨- | lentokenttä | l'aéroport (masculine)
+das Flugzeug, -e | lentokone | l'avion (masculine)
+der Fluss, ¨-e | joki | le fleuve, la rivière
+das Formular, -e | lomake | le formulaire
+der Fotoapparat, -e | kamera | l'appareil photo (masculine)
+fotografieren, fotografiert, hat fotografiert | valokuvata | photographier, prendre des photos
+das Foto, -s | valokuva | la photo
+die Frage, -n | kysymys | la question
+fragen, fragt, hat gefragt | kysyä | demander, poser une question
+die Frau, -en | nainen; rouva; vaimo | la femme; madame
+frei | vapaa | libre
+freiwillig | vapaaehtoinen | volontaire, bénévole
+die Freizeit (Sg.) | vapaa-aika | le temps libre, les loisirs (masculine)
+fremd | vieras | étranger / étrangère, inconnu / inconnue
+freuen (sich), freut, hat gefreut | iloita, olla iloinen | se réjouir, être content / contente
+der Freund, -e / die Freundin, -nen | ystävä; poikaystävä / tyttöystävä | l'ami (masculine) / l'amie (feminine); le copain / la copine
+freundlich | ystävällinen | aimable, gentil / gentille
+frisch | tuore, raikas | frais / fraîche
+froh | iloinen | content / contente, heureux / heureuse
+früh | aikaisin, aikainen | tôt
+früher | ennen, aikaisemmin | autrefois, avant; plus tôt
+das Frühstück (Sg.) | aamiainen | le petit-déjeuner
+frühstücken, frühstückt, hat gefrühstückt | syödä aamiaista | prendre le petit-déjeuner
+fühlen (sich), fühlt, hat gefühlt | tuntea (olonsa) | (se) sentir
+der Führerschein, -e | ajokortti | le permis de conduire
+die Führung, -en | opastettu kierros, opastus | la visite guidée
+die Fundsachen (Pl.) | löytötavarat | les objets trouvés (masculine)
+für | varten, -lle, puolesta | pour
+furchtbar | kauhea, hirveä | terrible, affreux / affreuse
+der Fuß, ¨-e | jalka, jalkaterä | le pied
+der Fußball, ¨-e | jalkapallo | le football; le ballon de football
+
+--- G ---
+die Gabel, -n | haarukka | la fourchette
+ganz | koko; aivan, ihan | tout / toute, entier / entière; tout à fait
+die Garage, -n | autotalli | le garage
+der Garten, ¨- | puutarha, piha | le jardin
+der Gast, ¨-e | vieras | l'invité (masculine) / l'invitée (feminine); le client / la cliente
+geben, gibt, hat gegeben | antaa (es gibt = on olemassa) | donner (es gibt = il y a)
+geboren | syntynyt | né / née
+Geburts- (das Geburtsjahr, -e / der Geburtsort, -e / der Geburtstag, -e) | syntymä- (syntymävuosi / syntymäpaikka / syntymäpäivä) | de naissance (l'année de naissance (feminine) / le lieu de naissance / l'anniversaire (masculine))
+geehrt- (Sehr geehrte Frau … / Sehr geehrter Herr …) | arvoisa (kirjeen alussa) | cher / chère (Madame, … / Monsieur, … dans une lettre formelle)
+gefährlich | vaarallinen | dangereux / dangereuse
+gefallen, gefällt, hat gefallen | miellyttää (pitää jostakin) | plaire
+gegen | vastaan; noin (kellonajasta) | contre; vers (heure)
+das Gegenteil, -e | vastakohta | le contraire
+gegenüber | vastapäätä | en face (de)
+das Gehalt, ¨-er | palkka | le salaire
+gehen, geht, ist gegangen | mennä, kävellä | aller, marcher
+gehören, gehört, hat gehört | kuulua (jollekulle) | appartenir à
+das Geld (Sg.) | raha | l'argent (masculine)
+die Geldbörse, -n | lompakko, kukkaro | le porte-monnaie
+das Gemüse (Sg.) | vihannekset | les légumes (masculine)
+genau | tarkka, tarkasti; täsmälleen | exact / exacte, exactement
+genug | tarpeeksi | assez
+das Gepäck (Sg.) | matkatavarat | les bagages (masculine)
+gerade | juuri (nyt); suora | justement, en ce moment; droit / droite
+geradeaus | suoraan eteenpäin | tout droit
+das Gerät, -e | laite | l'appareil (masculine)
+das Gericht, -e | ruokalaji | le plat
+gern, lieber, am liebsten | mielellään, mieluummin, mieluiten | volontiers (aimer faire), préférer, préférer par-dessus tout
+das Geschäft, -e | kauppa, liike | le magasin; l'affaire (feminine)
+das Geschenk, -e | lahja | le cadeau
+die Geschichte, -n | tarina, kertomus; historia | l'histoire (feminine)
+das Geschirr (Sg.) | astiat | la vaisselle
+das Gesicht, -er | kasvot | le visage
+das Gespräch, -e | keskustelu | la conversation, l'entretien (masculine)
+gestern | eilen | hier
+gesund | terve; terveellinen | en bonne santé; sain / saine
+die Gesundheit (Sg.) | terveys | la santé
+das Getränk, -e | juoma | la boisson
+gewinnen, gewinnt, hat gewonnen | voittaa | gagner
+das Gewitter, - | ukkonen, ukonilma | l'orage (masculine)
+die Gitarre, -n | kitara | la guitare
+das Glas, ¨-er | lasi | le verre
+glauben, glaubt, hat geglaubt | uskoa, luulla | croire
+gleich | heti, kohta; sama, samanlainen | tout de suite; pareil / pareille, le même / la même
+das Gleis, -e | raide | la voie
+das Glück (Sg.) | onni | la chance; le bonheur
+glücklich | onnellinen | heureux / heureuse
+der Glückwunsch, ¨-e | onnittelu | les félicitations (feminine)
+gratulieren, gratuliert, hat gratuliert | onnitella | féliciter
+grillen, grillt, hat gegrillt | grillata | faire un barbecue, griller
+die Grippe (Sg.) | influenssa, flunssa | la grippe
+groß | suuri, iso; pitkä (ihmisestä) | grand / grande
+die Größe, -n | koko, suuruus | la taille, la pointure (chaussures)
+die Gruppe, -n | ryhmä | le groupe
+der Gruß, ¨-e | tervehdys, terveiset | la salutation, les salutations (feminine)
+gültig sein, ist gültig, war gültig, ist gültig gewesen | olla voimassa | être valable
+günstig | edullinen | avantageux / avantageuse, bon marché
+gut, besser, am besten | hyvä, parempi, paras | bon / bonne (bien), meilleur / meilleure (mieux), le meilleur / la meilleure (le mieux)
+
+--- H ---
+das Haar, -e | hius, hiukset | le cheveu, les cheveux (masculine)
+haben, hat, hatte, hat gehabt | olla (jollakulla), omistaa | avoir
+das Hähnchen, - | kana, broileri | le poulet
+die Halle, -n | halli | la salle, le hall
+hallo | hei, terve | salut, bonjour
+der Hals, ¨-e | kaula, kurkku | le cou, la gorge
+halten, hält, hat gehalten | pysähtyä; pitää (kädessä) | s'arrêter; tenir
+die Haltestelle, -n | pysäkki | l'arrêt (masculine)
+der Hamburger, - | hampurilainen | le hamburger
+die Hand, ¨-e | käsi | la main
+das Handtuch, ¨-er | pyyhe | la serviette (de toilette)
+das Handy, -s | kännykkä, matkapuhelin | le (téléphone) portable
+hängen, hängt, hat gehangen / hat gehängt | riippua, roikkua / ripustaa | être accroché / accrocher, suspendre
+hart | kova | dur / dure
+hässlich | ruma | laid / laide, moche
+die Hauptstadt, ¨-e | pääkaupunki | la capitale
+das Haus, ¨-er | talo | la maison
+der Haushalt, -e | kotitalous, taloustyöt | le ménage
+das Heft, -e | vihko | le cahier
+die Heimat (Sg.) | kotimaa, kotiseutu | le pays natal, la patrie
+heiraten, heiratet, hat geheiratet | mennä naimisiin | se marier, épouser
+heiß | kuuma | chaud / chaude, très chaud
+heißen, heißt, hat geheißen | olla nimeltään; tarkoittaa | s'appeler; vouloir dire
+die Heizung, -en | lämmitys, lämpöpatteri | le chauffage
+helfen, hilft, hat geholfen | auttaa | aider
+hell | valoisa, vaalea | clair / claire
+das Hemd, -en | paita (kauluspaita) | la chemise
+her / her- / -her | tänne (puhujaa kohti) | (vers) ici (direction vers le locuteur)
+heraus / raus | ulos | dehors, (sortir) de
+herein / rein | sisään | à l'intérieur, entrez !
+der Herd, -e | liesi, hella | la cuisinière
+der Herr, -en | herra | le monsieur; Monsieur
+herstellen, stellt her, hat hergestellt | valmistaa, tuottaa | fabriquer, produire
+herunterladen, lädt herunter, hat heruntergeladen | ladata (netistä) | télécharger
+herzlich | sydämellinen | cordial / cordiale, chaleureux / chaleureuse
+heute | tänään | aujourd'hui
+hier | täällä, tässä | ici
+die Hilfe (Sg.) | apu | l'aide (feminine)
+der Himmel (Sg.) | taivas | le ciel
+hin / hin- / -hin | sinne (puhujasta poispäin) | (vers) là-bas (direction s'éloignant du locuteur)
+hinten | takana | derrière, à l'arrière, au fond
+hinter | takana, taakse | derrière
+das Hobby, -s | harrastus | le loisir, le passe-temps
+hoch | korkea, korkealla | haut / haute
+die Hochzeit, -en | häät | le mariage
+hoffen, hofft, hat gehofft | toivoa | espérer
+hoffentlich | toivottavasti | j'espère que, espérons que
+holen, holt, hat geholt | hakea, noutaa | aller chercher
+die Homepage, -s | kotisivu | la page d'accueil, le site web
+hören, hört, hat gehört | kuulla, kuunnella | entendre, écouter
+die Hose, -n | housut | le pantalon
+das Hotel, -s | hotelli | l'hôtel (masculine)
+der Hund, -e | koira | le chien
+der Hunger (Sg.) | nälkä | la faim
+husten, hustet, hat gehustet | yskiä | tousser
+
+--- I ---
+die Idee, -n | idea, ajatus | l'idée (feminine)
+immer | aina | toujours
+in | -ssa/-ssä, -Vn (sisällä, sisään) | dans, en, à
+die Information, -en | tieto, informaatio | l'information (feminine)
+informieren (sich) (über), informiert, hat informiert | ottaa selvää, hankkia tietoa (jostakin); tiedottaa | (s')informer (sur), se renseigner (sur)
+die Insel, -n | saari | l'île (feminine)
+das Instrument, -e | soitin, instrumentti | l'instrument (masculine)
+intelligent | älykäs | intelligent / intelligente
+das Interesse, -n | kiinnostus | l'intérêt (masculine)
+interessieren (sich), interessiert, hat interessiert | olla kiinnostunut; kiinnostaa | (s')intéresser
+interessant | mielenkiintoinen | intéressant / intéressante
+international | kansainvälinen | international / internationale
+das Internet (Sg.) | internet | l'Internet (masculine) (souvent sans article: sur Internet)
+das Interview, -s | haastattelu | l'interview (feminine)
+
+--- J ---
+ja | kyllä, joo | oui
+die Jacke, -n | takki | la veste, le blouson
+die Jeans (Pl.) | farkut | le jean
+jeder, jede, jedes | jokainen, joka | chaque; chacun / chacune
+jemand | joku | quelqu'un
+jetzt | nyt | maintenant
+der Job, -s | työ, työpaikka | le travail, le job, le petit boulot
+joggen, joggt, ist/hat gejoggt | hölkätä, käydä lenkillä | faire du jogging, courir
+die Jugendherberge, -n | retkeilymaja, hostelli | l'auberge de jeunesse (feminine)
+der Jugendliche, -n / die Jugendliche, -n | nuori | le jeune / la jeune, l'adolescent (masculine) / l'adolescente (feminine)
+jung | nuori | jeune
+der Junge, -n | poika | le garçon
+
+--- K ---
+der Kaffee, -s | kahvi | le café
+der Kalender, - | kalenteri | le calendrier, l'agenda (masculine)
+kalt | kylmä | froid / froide
+die Kamera, -s | kamera | l'appareil photo (masculine), la caméra
+kaputt | rikki | cassé / cassée, en panne
+die Karte, -n | kortti; lippu; kartta | la carte; le billet
+die Kartoffel, -n | peruna | la pomme de terre
+der Käse (Sg.) | juusto | le fromage
+die Kasse, -n | kassa | la caisse
+die Katze, -n | kissa | le chat
+kaufen, kauft, hat gekauft | ostaa | acheter
+das Kaufhaus, ¨-er | tavaratalo | le grand magasin
+kein, keine | ei mikään, ei yhtään | ne … pas de, aucun / aucune
+der Keller, - | kellari | la cave
+kennen, kennt, hat gekannt | tuntea, tietää | connaître
+kennenlernen, lernt kennen, hat kennengelernt | tutustua | faire la connaissance de
+die Kenntnisse (Pl.) | tiedot, taidot | les connaissances (feminine)
+die Kette, -n | ketju, kaulakoru | la chaîne, le collier
+das Kind, -er | lapsi | l'enfant (masculine / feminine)
+der Kindergarten, ¨- | päiväkoti | l'école maternelle (feminine), le jardin d'enfants
+das Kino, -s | elokuvateatteri | le cinéma
+der Kiosk, -e | kioski | le kiosque
+die Kirche, -n | kirkko | l'église (feminine)
+klappen, klappt, hat geklappt | onnistua, toimia | marcher, fonctionner (ça marche)
+klar | selvä | clair / claire; bien sûr
+das Klavier, -e | piano | le piano
+das Kleid, -er | mekko | la robe
+die Kleidung (Sg.) | vaatteet, vaatetus | les vêtements (masculine)
+klein | pieni | petit / petite
+klug | viisas, fiksu | intelligent / intelligente
+kochen, kocht, hat gekocht | laittaa ruokaa, keittää | cuisiner, faire la cuisine; faire bouillir
+der Koffer, - | matkalaukku | la valise
+der Kollege, -n / die Kollegin, -nen | työtoveri, kollega | le collègue / la collègue
+komisch | outo, kummallinen; hassu | bizarre; drôle
+kommen, kommt, ist gekommen | tulla | venir
+können, kann, konnte, hat gekonnt | osata, voida | pouvoir, savoir
+der Kontakt, -e | yhteys, kontakti | le contact
+das Konto, Konten | tili | le compte
+kontrollieren, kontrolliert, hat kontrolliert | tarkastaa | contrôler, vérifier
+das Konzert, -e | konsertti | le concert
+der Kopf, ¨-e | pää | la tête
+der Körper, - | keho, vartalo | le corps
+die Kosmetik (Sg.) | kosmetiikka | les cosmétiques (masculine), les produits de beauté (masculine)
+kosten, kostet, hat gekostet | maksaa (olla hintana) | coûter
+kostenlos | ilmainen, maksuton | gratuit / gratuite
+krank | sairas | malade
+das Krankenhaus, ¨-er | sairaala | l'hôpital (masculine)
+die Krankenkasse, -n | sairauskassa, sairausvakuutus | la caisse d'assurance maladie
+die Krankheit, -en | sairaus | la maladie
+der Kredit, -e | laina, luotto | le crédit
+die Kreuzung, -en | risteys | le carrefour, le croisement
+kriegen, kriegt, hat gekriegt | saada (puhekielessä) | recevoir, avoir (familier)
+der Krimi, -s | dekkari, rikosromaani/-elokuva | le roman policier, le film policier (le polar)
+die Küche, -n | keittiö | la cuisine
+der Kuchen, - | kakku | le gâteau
+kühl | viileä | frais / fraîche
+der Kühlschrank, ¨-e | jääkaappi | le réfrigérateur, le frigo
+die Kultur, -en | kulttuuri | la culture
+kümmern (sich), kümmert, hat gekümmert | huolehtia, pitää huolta | s'occuper (de)
+der Kunde, -n / die Kundin, -nen | asiakas | le client / la cliente
+kündigen, kündigt, hat gekündigt | irtisanoa, irtisanoutua | démissionner; licencier; résilier
+die Kunst, ¨-e | taide | l'art (masculine)
+der Kurs, -e | kurssi | le cours
+kurz | lyhyt | court / courte; bref / brève
+
+--- L ---
+lachen, lacht, hat gelacht | nauraa | rire
+der Laden, ¨- | kauppa, myymälä | le magasin, la boutique
+die Lampe, -n | lamppu | la lampe
+das Land, ¨-er | maa; maaseutu | le pays; la campagne
+die Landschaft, -en | maisema | le paysage
+lang | pitkä | long / longue
+lange | kauan | longtemps
+langsam | hidas, hitaasti | lent / lente, lentement
+langweilig | tylsä | ennuyeux / ennuyeuse
+der/das Laptop, -s | kannettava tietokone, läppäri | l'ordinateur portable (masculine)
+lassen, lässt, hat gelassen | antaa (tehdä), jättää | laisser; faire (faire quelque chose)
+laufen, läuft, ist gelaufen | juosta; kävellä | courir; marcher
+laut | äänekäs, kovaääninen | fort / forte, bruyant / bruyante
+leben, lebt, hat gelebt | elää, asua | vivre
+das Leben, - | elämä | la vie
+die Lebensmittel (Pl.) | elintarvikkeet | les aliments (masculine), les produits alimentaires (masculine)
+leer | tyhjä | vide
+legen, legt, hat gelegt | panna, laittaa (makaamaan) | poser, mettre (à plat)
+leicht | helppo; kevyt | facile; léger / légère
+leider | valitettavasti | malheureusement
+leidtun, tut leid, hat leidgetan | olla pahoillaan (es tut mir leid) | être désolé / désolée (je suis désolé)
+leihen, leiht, hat geliehen | lainata | prêter; emprunter
+leise | hiljainen, hiljaa | doux / douce, silencieux / silencieuse, doucement, à voix basse
+lernen, lernt, hat gelernt | oppia, opiskella | apprendre
+lesen, liest, hat gelesen | lukea | lire
+letzt- | viimeinen, viime | dernier / dernière
+die Leute (Pl.) | ihmiset | les gens (masculine)
+das Licht, -er | valo | la lumière
+lieb- | rakas, kiltti | cher / chère, gentil / gentille
+lieben, liebt, hat geliebt | rakastaa | aimer
+Lieblings- (z. B. Lieblingsfarbe) | lempi-, suosikki- (esim. lempiväri) | préféré / préférée (p. ex. la couleur préférée)
+das Lied, -er | laulu | la chanson
+liefern, liefert, hat geliefert | toimittaa (tavara) | livrer
+liegen, liegt, hat/ist gelegen | maata; sijaita | être couché / couchée; se trouver, être situé / située
+der Link, -s | linkki | le lien
+links | vasemmalla, vasemmalle | à gauche
+der Löffel, - | lusikka | la cuillère
+das Lokal, -e | ravintola, baari | le restaurant, le bistrot
+die Lüge, -n | valhe | le mensonge
+lügen, lügt, hat gelogen | valehdella | mentir
+die Lust (Sg.) | halu (Lust haben = huvittaa) | l'envie (feminine) (avoir envie)
+lustig | hauska | drôle, amusant / amusante
+
+--- M ---
+machen, macht, hat gemacht | tehdä | faire
+das Mädchen, - | tyttö | la fille
+der Magen, ¨- | vatsa, mahalaukku | l'estomac (masculine)
+die Mailbox, -en | vastaaja, puhepostilaatikko | la messagerie (vocale)
+mal | kerran; -pa/-pä (pehmentävä) | une fois; donc, un peu (particule)
+das Mal, -e | kerta | la fois
+malen, malt, hat gemalt | maalata | peindre
+man | passiivin subjekti ("ihmiset", yleisesti) | on
+manch- | moni, jotkut | certains / certaines, plus d'un
+manchmal | joskus | parfois, quelquefois
+der Mann, ¨-er | mies; aviomies | l'homme (masculine); le mari
+männlich | miespuolinen, mies- | masculin / masculine
+die Mannschaft, -en | joukkue | l'équipe (feminine)
+der Mantel, ¨- | takki (pitkä) | le manteau
+der Markt, ¨-e | tori, markkinat | le marché
+die Maschine, -n | kone | la machine
+das Medikament, -e | lääke | le médicament
+das Meer, -e | meri | la mer
+mehr | enemmän | plus, davantage
+meinen, meint, hat gemeint | olla jotakin mieltä; tarkoittaa | penser, être d'avis; vouloir dire
+die Meinung, -en | mielipide | l'opinion (feminine), l'avis (masculine)
+meist- (die meisten) | useimmat, suurin osa | la plupart (de)
+meistens | useimmiten, yleensä | la plupart du temps, généralement
+die Menge, -n | määrä, joukko | la quantité; la foule
+der Mensch, -en | ihminen | l'homme (masculine), l'être humain (masculine), la personne
+merken, merkt, hat gemerkt | huomata; (sich merken) painaa mieleen | remarquer; (sich merken) retenir
+die Messe, -n | messut | la foire, le salon
+das Messer, - | veitsi | le couteau
+die Miete, -n | vuokra | le loyer
+mieten, mietet, hat gemietet | vuokrata (itselleen) | louer (prendre en location)
+die Milch (Sg.) | maito | le lait
+mindestens | vähintään | au moins
+das Mineralwasser (Sg.) | kivennäisvesi | l'eau minérale (feminine)
+mit | kanssa, -lla/-llä (välineellä) | avec
+mitbringen, bringt mit, hat mitgebracht | tuoda mukanaan | apporter, amener (avec soi)
+mitkommen, kommt mit, ist mitgekommen | tulla mukaan | venir (avec quelqu'un), accompagner
+mitmachen, macht mit, hat mitgemacht | osallistua, olla mukana | participer
+mitnehmen, nimmt mit, hat mitgenommen | ottaa mukaan | emporter, emmener
+mitspielen, spielt mit, hat mitgespielt | pelata/leikkiä mukana | jouer (avec les autres)
+der Mitarbeiter, - / die Mitarbeiterin, -nen | työntekijä | le collaborateur / la collaboratrice, l'employé (masculine) / l'employée (feminine)
+das Mittagessen, - | lounas | le déjeuner
+die Mitte, -n | keskikohta, keskusta | le milieu, le centre
+das Mittel, - | keino; lääke, aine | le moyen; le remède, le produit
+die Möbel (Pl.) | huonekalut | les meubles (masculine)
+das Mobiltelefon, -e | matkapuhelin | le téléphone portable
+möchten, möchte, mochte, hat gemocht | haluaisi | vouloir (je voudrais)
+die Mode, -n | muoti | la mode
+modern | moderni, nykyaikainen | moderne
+mögen, mag, mochte, hat gemocht | pitää (jostakin) | aimer (bien)
+möglich | mahdollinen | possible
+der Moment, -e | hetki | le moment, l'instant (masculine)
+morgen | huomenna | demain
+der Motor, -en | moottori | le moteur
+der Motorroller, - | skootteri | le scooter
+müde | väsynyt | fatigué / fatiguée
+der Müll (Sg.) | roskat, jätteet | les ordures (feminine), les déchets (masculine)
+der Mund, ¨-er | suu | la bouche
+das Museum, Museen | museo | le musée
+die Musik (Sg.) | musiikki | la musique
+müssen, muss, musste | täytyä, pitää | devoir, falloir (il faut)
+die Mütze, -n | pipo, lakki | le bonnet, la casquette
+
+--- N ---
+nach | jälkeen; (johonkin) päin, -lle; yli (kellonajasta) | après; à, vers (direction); et (heure)
+der Nachbar, -n / die Nachbarin, -nen | naapuri | le voisin / la voisine
+die Nachricht, -en | viesti; uutinen | le message; la nouvelle (les nouvelles: feminine)
+nächste, nächster, nächstes | seuraava, ensi | prochain / prochaine
+die Nähe (Sg.) | läheisyys (in der Nähe = lähellä) | la proximité (à proximité, près de)
+der Name, -n | nimi | le nom
+nass | märkä | mouillé / mouillée
+die Natur (Sg.) | luonto | la nature
+natürlich | tietysti, luonnollisesti; luonnollinen | bien sûr, naturellement; naturel / naturelle
+neben | vieressä, viereen | à côté de
+nebenan | naapurissa, viereisessä (huoneessa, talossa) | à côté
+neblig | sumuinen | brumeux / brumeuse (il y a du brouillard)
+nehmen, nimmt, hat genommen | ottaa | prendre
+nein | ei | non
+nennen, nennt, hat genannt | nimetä, kutsua (joksikin), mainita | nommer, appeler, citer
+nervös | hermostunut | nerveux / nerveuse
+nett | mukava, kiva, ystävällinen | gentil / gentille, sympa
+neu | uusi | nouveau / nouvelle, neuf / neuve
+nicht | ei | ne … pas
+nichts | ei mitään | rien (ne … rien)
+nie | ei koskaan | jamais (ne … jamais)
+niemand | ei kukaan | personne (ne … personne)
+nirgends | ei missään | nulle part
+noch | vielä | encore
+normal | normaali, tavallinen | normal / normale
+die Note, -n | arvosana | la note
+notieren, notiert, hat notiert | merkitä muistiin | noter
+die Notiz, -en | muistiinpano | la note
+notwendig | välttämätön, tarpeellinen | nécessaire
+die Nudel, -n | nuudeli, pasta | la nouille, les pâtes (feminine)
+die Nummer, -n | numero | le numéro
+nur | vain, ainoastaan | seulement, ne … que
+nützlich | hyödyllinen | utile
+
+--- O ---
+oben | ylhäällä, yläkerrassa | en haut
+das Obst (Sg.) | hedelmät | les fruits (masculine)
+oder | tai, vai | ou
+offen | auki, avoin | ouvert / ouverte
+öffnen, öffnet, hat geöffnet | avata | ouvrir
+oft | usein | souvent
+ohne | ilman | sans
+das Ohr, -en | korva | l'oreille (feminine)
+das Öl, -e | öljy | l'huile (feminine)
+online | verkossa, netissä | en ligne
+die Orange, -n | appelsiini | l'orange (feminine)
+die Ordnung, -en | järjestys (in Ordnung = kunnossa) | l'ordre (masculine) (d'accord, en ordre)
+organisieren, organisiert, hat organisiert | järjestää, organisoida | organiser
+der Ort, -e | paikka, paikkakunta | le lieu, l'endroit (masculine)
+
+--- P ---
+das Paar, -e | pari; pariskunta | la paire; le couple
+ein paar | muutama, pari | quelques
+packen, packt, hat gepackt | pakata | faire (sa valise), emballer
+das Paket, -e | paketti | le paquet, le colis
+das Papier, -e | paperi | le papier
+die Papiere (Pl.) | paperit, asiakirjat | les papiers (masculine)
+das Parfüm, -s | hajuvesi | le parfum
+der Park, -s | puisto | le parc
+parken, parkt, hat geparkt | pysäköidä | se garer, stationner
+der Partner, - / die Partnerin, -nen | kumppani, pari | le partenaire / la partenaire
+die Party, -s | juhlat, bileet | la fête, la soirée
+der Pass, ¨-e | passi | le passeport
+passen, passt, hat gepasst | sopia | aller (bien), convenir
+passieren, passiert, ist passiert | tapahtua | arriver, se passer
+das Passwort, ¨-er | salasana | le mot de passe
+die Pause, -n | tauko | la pause
+die Person, -en | henkilö | la personne
+das Pferd, -e | hevonen | le cheval
+die Pflanze, -n | kasvi | la plante
+die Pizza, -s/Pizzen | pizza | la pizza
+das Plakat, -e | juliste | l'affiche (feminine)
+der Plan, ¨-e | suunnitelma; kartta | le projet, le plan
+planen, plant, hat geplant | suunnitella | prévoir, planifier
+der Platz, ¨-e | paikka; aukio, tori | la place
+plötzlich | yhtäkkiä | soudain, tout à coup
+die Polizei (Sg.) | poliisi | la police
+die Pommes frites (Pl.) | ranskalaiset perunat | les frites (feminine)
+die Portion, -en | annos | la portion
+die Post (Sg.) | posti | la poste; le courrier
+das Poster, - | juliste | le poster
+die Postkarte, -n | postikortti | la carte postale
+die Postleitzahl, -en | postinumero | le code postal
+das Praktikum, Praktika | harjoittelu | le stage
+praktisch | käytännöllinen | pratique
+die Praxis, Praxen | lääkärin vastaanotto | le cabinet (médical)
+der Preis, -e | hinta; palkinto | le prix
+preiswert | edullinen | bon marché, avantageux / avantageuse
+privat | yksityinen | privé / privée
+pro | per, kohden (esim. pro Tag = päivässä) | par (p. ex. par jour)
+probieren, probiert, hat probiert | kokeilla, maistaa | essayer, goûter
+das Problem, -e | ongelma | le problème
+das Produkt, -e | tuote | le produit
+das Programm, -e | ohjelma | le programme
+das Projekt, -e | projekti, hanke | le projet
+der Prospekt, -e | esite | le prospectus, la brochure
+prüfen, prüft, hat geprüft | tarkastaa, testata, kuulustella | vérifier, examiner
+die Prüfung, -en | koe, tentti | l'examen (masculine)
+der Pullover, - | villapaita, neulepusero | le pull, le pull-over
+pünktlich | täsmällinen, ajoissa | ponctuel / ponctuelle, à l'heure
+putzen, putzt, hat geputzt | siivota, puhdistaa | nettoyer, faire le ménage
+
+--- Q ---
+die Qualität, -en | laatu | la qualité
+das Quiz (Sg.) | tietokilpailu, visa | le quiz
+
+--- R ---
+das Radio, -s | radio | la radio
+raten, rät, hat geraten | arvata; neuvoa | deviner; conseiller
+das Rathaus, ¨-er | kaupungintalo | la mairie, l'hôtel de ville (masculine)
+das Rätsel, - | arvoitus | la devinette, l'énigme (feminine)
+rauchen, raucht, hat geraucht | tupakoida, polttaa | fumer
+der Raum, ¨-e | huone, tila | la pièce, la salle
+rechnen, rechnet, hat gerechnet | laskea | calculer, compter
+die Rechnung, -en | lasku | la facture, l'addition (feminine)
+recht haben, hat recht, hatte recht, hat recht gehabt | olla oikeassa | avoir raison
+rechts | oikealla, oikealle | à droite
+reden, redet, hat geredet | puhua | parler
+der Regen (Sg.) | sade | la pluie
+regnen, regnet, hat geregnet | sataa (vettä) | pleuvoir
+reich | rikas | riche
+der Reifen, - | rengas | le pneu
+die Reihe, -n | rivi, jono | le rang, la rangée
+die Reinigung, -en | pesula; puhdistus | le pressing; le nettoyage
+der Reis (Sg.) | riisi | le riz
+die Reise, -n | matka | le voyage
+das Reisebüro, -s | matkatoimisto | l'agence de voyages (feminine)
+der Reiseführer, - | matkaopas (kirja tai henkilö) | le guide (touristique)
+reisen, reist, ist gereist | matkustaa | voyager
+reiten, reitet, ist geritten | ratsastaa | monter à cheval, faire du cheval
+renovieren, renoviert, hat renoviert | remontoida, kunnostaa | rénover
+der Rentner, - / die Rentnerin, -nen | eläkeläinen | le retraité / la retraitée
+die Reparatur, -en | korjaus | la réparation
+reparieren, repariert, hat repariert | korjata | réparer
+reservieren, reserviert, hat reserviert | varata | réserver
+der Rest, -e | loput, jäännös | le reste
+das Restaurant, -s | ravintola | le restaurant
+das Rezept, -e | resepti; ruokaohje | l'ordonnance (feminine); la recette
+die Rezeption, -en | vastaanotto | la réception
+richtig | oikea, oikein | juste, correct / correcte
+riechen, riecht, hat gerochen | haista, tuoksua; haistaa | sentir
+das Rind, -er | nauta, naudanliha | le bœuf
+der Ring, -e | sormus | la bague, l'anneau (masculine)
+der Rock, ¨-e | hame | la jupe
+romantisch | romanttinen | romantique
+die Rose, -n | ruusu | la rose
+der Rücken, - | selkä | le dos
+der Rucksack, ¨-e | reppu | le sac à dos
+rufen, ruft, hat gerufen | huutaa, kutsua | appeler, crier
+die Ruhe (Sg.) | rauha, hiljaisuus, lepo | le calme, le repos
+ruhig | rauhallinen, hiljainen | calme, tranquille
+rund | pyöreä | rond / ronde
+der Rundgang, ¨-e | kierros (kävellen) | le tour, la visite (à pied)
+
+--- S ---
+die Sache, -n | asia, tavara | la chose, l'affaire (feminine) (les affaires: feminine)
+der Saft, ¨-e | mehu | le jus
+sagen, sagt, hat gesagt | sanoa | dire
+der Salat, -e | salaatti | la salade
+das Salz, -e | suola | le sel
+sammeln, sammelt, hat gesammelt | kerätä | collectionner, ramasser
+der Satz, ¨-e | lause | la phrase
+sauber | puhdas, siisti | propre
+sauer | hapan; vihainen | acide, aigre; fâché / fâchée
+schade | harmi, vahinko | dommage
+schädlich | haitallinen, vahingollinen | nocif / nocive, mauvais / mauvaise (pour la santé)
+schaffen, schafft, hat geschafft | selviytyä, onnistua, ehtiä | réussir, y arriver
+der Schalter, - | palvelutiski, luukku; katkaisija | le guichet; l'interrupteur (masculine)
+scharf | tulinen, voimakkaasti maustettu; terävä | épicé / épicée, piquant / piquante; tranchant / tranchante
+scheinen, scheint, hat geschienen | paistaa (aurinko) | briller (le soleil brille)
+schenken, schenkt, hat geschenkt | lahjoittaa, antaa lahjaksi | offrir (en cadeau)
+die Schere, -n | sakset | les ciseaux (masculine)
+schicken, schickt, hat geschickt | lähettää | envoyer
+das Schiff, -e | laiva | le bateau
+das Schild, -er | kyltti, kilpi | le panneau, la pancarte
+schimpfen, schimpft, hat geschimpft | torua, haukkua | gronder, râler
+der Schirm, -e | sateenvarjo, varjo | le parapluie
+schlafen, schläft, hat geschlafen | nukkua | dormir
+das Schlafzimmer, - | makuuhuone | la chambre (à coucher)
+schlecht | huono, huonosti | mauvais / mauvaise, mal
+schließen, schließt, hat geschlossen | sulkea; mennä kiinni | fermer
+schlimm | paha, vakava | grave, mauvais / mauvaise
+das Schloss, ¨-er | linna; lukko | le château; la serrure
+der Schluss, ¨-e | loppu | la fin
+der Schlüssel, - | avain | la clé
+schmecken, schmeckt, hat geschmeckt | maistua | avoir (bon) goût, être bon
+der Schmerz, -en | kipu, särky | la douleur
+schmutzig | likainen | sale
+der Schnee (Sg.) | lumi | la neige
+schneiden (sich), schneidet, hat geschnitten | leikata; viiltää itseään | (se) couper
+schneien, schneit, hat geschneit | sataa lunta | neiger
+schnell | nopea, nopeasti | rapide, vite
+die Schokolade (Sg.) | suklaa | le chocolat
+schon | jo | déjà
+schön | kaunis, kiva | beau / belle, joli / jolie
+der Schrank, ¨-e | kaappi | l'armoire (feminine), le placard
+schrecklich | kauhea, hirveä | terrible, horrible
+schreiben, schreibt, hat geschrieben | kirjoittaa | écrire
+schriftlich | kirjallinen, kirjallisesti | écrit / écrite, par écrit
+der Schuh, -e | kenkä | la chaussure
+die Schule, -n | koulu | l'école (feminine)
+der Schüler, - / die Schülerin, -nen | oppilas, koululainen | l'élève (masculine) / l'élève (feminine)
+schwach | heikko | faible
+schwanger | raskaana | enceinte
+das Schwein, -e | sika, sianliha | le porc, le cochon
+schwer | painava; vaikea | lourd / lourde; difficile
+schwierig | vaikea | difficile
+das Schwimmbad, ¨-er | uimahalli, uimala | la piscine
+schwimmen, schwimmt, ist geschwommen | uida | nager
+der See, -n | järvi | le lac
+die See (Sg.) | meri | la mer
+sehen, sieht, hat gesehen | nähdä | voir
+die Sehenswürdigkeit, -en | nähtävyys | la curiosité (touristique), le monument
+sehr | hyvin, erittäin, kovasti | très, beaucoup
+die Seife, -n | saippua | le savon
+sein, ist, war, ist gewesen | olla | être
+an sein | olla päällä (laite, valo) | être allumé / allumée
+aus sein | olla pois päältä; olla loppu | être éteint / éteinte; être fini / finie
+auf sein | olla auki; olla hereillä | être ouvert / ouverte; être debout
+weg sein | olla poissa, olla kadonnut | être parti / partie, avoir disparu
+zu sein | olla kiinni | être fermé / fermée
+seit | lähtien, jostakin asti | depuis
+die Seite, -n | sivu; puoli | la page; le côté
+selbst | itse | soi-même, moi-même (etc.)
+die Sendung, -en | ohjelma, lähetys (tv, radio); lähetys (posti) | l'émission (feminine); l'envoi (masculine)
+der Service (Sg.) | palvelu | le service
+setzen (sich), setzt, hat gesetzt | istuutua; asettaa | s'asseoir; mettre, poser
+sicher | varma, varmasti; turvallinen | sûr / sûre, sûrement
+singen, singt, hat gesungen | laulaa | chanter
+die Situation, -en | tilanne | la situation
+sitzen, sitzt, hat/ist gesessen | istua | être assis / assise
+der Ski, -er / - | suksi | le ski
+so | niin, näin | ainsi, comme ça, si
+das Sofa, -s | sohva | le canapé
+sofort | heti | tout de suite, immédiatement
+sogar | jopa | même
+sollen, soll, sollte | pitää, täytyä (toisen tahdosta), kuulua tehdä | devoir (obligation, conseil)
+die Sonne, -n | aurinko | le soleil
+sonnig | aurinkoinen | ensoleillé / ensoleillée
+sonst | muuten, muutoin | sinon, autrement, d'autre
+spannend | jännittävä | passionnant / passionnante, captivant / captivante
+sparen, spart, hat gespart | säästää | économiser, épargner
+der Spaß (Sg.) | hauskuus, huvi, ilo | le plaisir, l'amusement (masculine)
+spät | myöhään, myöhäinen | tard
+später | myöhemmin | plus tard
+spazieren gehen, geht spazieren, ist spazieren gegangen | mennä kävelylle | se promener, aller se promener
+der Spaziergang, ¨-e | kävely(retki) | la promenade
+speichern, speichert, hat gespeichert | tallentaa | enregistrer, sauvegarder
+die Speisekarte, -n | ruokalista | la carte, le menu
+das Spiel, -e | peli, leikki, ottelu | le jeu, le match
+spielen, spielt, hat gespielt | pelata, leikkiä, soittaa | jouer
+der Sport (Sg.) | urheilu, liikunta | le sport
+sportlich | urheilullinen | sportif / sportive
+der Sportplatz, ¨-e | urheilukenttä | le terrain de sport
+die Sprache, -n | kieli | la langue
+sprechen, spricht, hat gesprochen | puhua | parler
+die Sprechstunde, -n | vastaanottoaika | la consultation, les heures de consultation (feminine)
+die Stadt, ¨-e | kaupunki | la ville
+der Stadtplan, ¨-e | kaupungin kartta | le plan de la ville
+der Star, -s | tähti (julkkis) | la star, la vedette
+stark | vahva, voimakas | fort / forte
+stattfinden, findet statt, hat stattgefunden | tapahtua, pidetään, järjestetään | avoir lieu
+stehen, steht, hat/ist gestanden | seisoa; lukea (jossakin) | être debout; être écrit
+die Stelle, -n | työpaikka; kohta, paikka | le poste, l'emploi (masculine); l'endroit (masculine)
+stellen, stellt, hat gestellt | panna, asettaa (pystyyn) | mettre, poser (debout)
+sterben, stirbt, ist gestorben | kuolla | mourir
+der Stiefel, - | saapas | la botte
+der Stift, -e | kynä | le crayon, le stylo
+das Stipendium, Stipendien | apuraha, stipendi | la bourse (d'études)
+der Stock (Pl.: Stockwerke) / das Stockwerk, -e | kerros | l'étage (masculine)
+stören, stört, hat gestört | häiritä | déranger
+der Strand, ¨-e | ranta, hiekkaranta | la plage
+die Straße, -n | katu, tie | la rue, la route
+die Straßenbahn, -en | raitiovaunu | le tramway (le tram)
+streiten (sich), streitet, hat gestritten | riidellä | se disputer
+streng | tiukka, ankara | sévère, strict / stricte
+der Stress (Sg.) | stressi | le stress
+stressig | stressaava | stressant / stressante
+das Stück, -e | pala, kappale | le morceau, la pièce
+der Student, -en / die Studentin, -nen | opiskelija (korkeakoulussa) | l'étudiant (masculine) / l'étudiante (feminine)
+studieren, studiert, hat studiert | opiskella (korkeakoulussa) | étudier, faire des études
+das Studium (Sg.) | opinnot (korkeakoulussa) | les études (feminine)
+der Stuhl, ¨-e | tuoli | la chaise
+suchen, sucht, hat gesucht | etsiä | chercher
+super | mahtava, loistava | super, génial / géniale
+der Supermarkt, ¨-e | supermarketti, valintamyymälä | le supermarché
+die Suppe, -n | keitto | la soupe
+surfen, surft, hat/ist gesurft | surffata (netissä; laudalla) | surfer, naviguer (sur Internet)
+süß | makea; suloinen | sucré / sucrée; mignon / mignonne
+die Süßigkeiten (Pl.) | makeiset, karkit | les bonbons (masculine), les sucreries (feminine)
+sympathisch | sympaattinen, mukava | sympathique
+
+--- T ---
+das Tablet, -s | tabletti (laite) | la tablette
+die Tablette, -n | tabletti (lääke) | le comprimé, le cachet
+die Tafel, -n (z. B. Infotafel) | taulu (esim. infotaulu) | le tableau, le panneau (p. ex. panneau d'information)
+tanzen, tanzt, hat getanzt | tanssia | danser
+die Tasche, -n | laukku, kassi; tasku | le sac; la poche
+das Taschengeld (Sg.) | viikkoraha, taskuraha | l'argent de poche (masculine)
+die Tasse, -n | kuppi | la tasse
+tauschen, tauscht, hat getauscht / austauschen, tauscht aus, hat ausgetauscht | vaihtaa | échanger
+das Taxi, -s | taksi | le taxi
+das Team, -s | tiimi, joukkue | l'équipe (feminine)
+der Tee, -s | tee | le thé
+teilen, teilt, hat geteilt | jakaa | partager, diviser
+teilnehmen, nimmt teil, hat teilgenommen | osallistua | participer
+das Telefon, -e | puhelin | le téléphone
+telefonieren, telefoniert, hat telefoniert | puhua puhelimessa, soittaa | téléphoner
+der Teller, - | lautanen | l'assiette (feminine)
+das Tennis (Sg.) | tennis | le tennis
+der Termin, -e | (sovittu) aika, tapaaminen | le rendez-vous
+teuer | kallis | cher / chère
+der Text, -e | teksti | le texte
+das Theater, - | teatteri | le théâtre
+das Thema, Themen | aihe, teema | le sujet, le thème
+das Ticket, -s | lippu | le billet, le ticket
+tief | syvä | profond / profonde
+das Tier, -e | eläin | l'animal (masculine)
+der Tipp, -s | vinkki, neuvo | le conseil, le tuyau
+der Tisch, -e | pöytä | la table
+der Titel, - | otsikko, nimi; titteli | le titre
+die Toilette, -n | vessa, WC | les toilettes (feminine)
+toll | mahtava, upea | super, génial / géniale
+die Tomate, -n | tomaatti | la tomate
+der Topf, ¨-e | kattila; ruukku | la casserole; le pot
+die Torte, -n | täytekakku | le gâteau (à la crème), la tarte
+tot | kuollut | mort / morte
+total | täysin, tosi | totalement, complètement
+die Tour, -en | kierros, retki | le tour, l'excursion (feminine)
+der Tourist, -en / die Touristin, -nen | turisti, matkailija | le touriste / la touriste
+tragen, trägt, hat getragen | kantaa; pitää yllään | porter
+trainieren, trainiert, hat trainiert | harjoitella, treenata | s'entraîner
+das Training, -s | harjoittelu, treeni(t) | l'entraînement (masculine)
+der Traum, ¨-e | uni; unelma | le rêve
+träumen, träumt, hat geträumt | nähdä unta; unelmoida | rêver
+traurig | surullinen | triste
+treffen (sich), trifft, hat getroffen | tavata | (se) rencontrer, (se) retrouver
+die Treppe, -n | portaat | l'escalier (masculine)
+trinken, trinkt, hat getrunken | juoda | boire
+trocken | kuiva | sec / sèche
+tschüs | hei hei, moikka | salut, au revoir
+das T-Shirt, -s | T-paita | le tee-shirt
+tun, tut, hat getan | tehdä | faire
+die Tür, -en | ovi | la porte
+typisch | tyypillinen | typique
+
+--- U ---
+üben, übt, hat geübt | harjoitella | s'exercer, s'entraîner, pratiquer
+über | yläpuolella, yli; (jostakin) -sta/-stä | au-dessus de, sur; plus de; au sujet de
+überall | kaikkialla | partout
+übermorgen | ylihuomenna | après-demain
+übernachten, übernachtet, hat übernachtet | yöpyä | passer la nuit
+übersetzen, übersetzt, hat übersetzt | kääntää (kielestä toiseen) | traduire
+die Übersetzung, -en | käännös | la traduction
+überweisen, überweist, hat überwiesen | tehdä tilisiirto, siirtää (rahaa) | virer, faire un virement
+die Uhr, -en | kello | l'heure (feminine); la montre, l'horloge (feminine)
+um | kello (aika); ympäri | à (heure); autour de
+umsteigen, steigt um, ist umgestiegen | vaihtaa (kulkuvälinettä) | changer (de train, de bus)
+umziehen, zieht um, ist umgezogen | muuttaa (asuntoa) | déménager
+sich umziehen, zieht sich um, zog sich um, hat sich umgezogen | vaihtaa vaatteet | se changer
+der Umzug, ¨-e | muutto | le déménagement
+unbedingt | ehdottomasti, välttämättä | absolument
+und | ja | et
+der Unfall, ¨-e | onnettomuus, tapaturma | l'accident (masculine)
+die Universität, -en | yliopisto | l'université (feminine)
+unten | alhaalla, alakerrassa | en bas
+unter | alla, alle; joukossa | sous; parmi
+unterhalten (sich), unterhält, hat unterhalten | keskustella, jutella | discuter, bavarder
+die Unterkunft, ¨-e | majoitus | l'hébergement (masculine), le logement
+unternehmen, unternimmt, hat unternommen | tehdä (jotakin yhdessä), ryhtyä | faire, entreprendre (une activité)
+der Unterricht (Sg.) | opetus, oppitunti | le cours, l'enseignement (masculine)
+der Unterschied, -e | ero | la différence
+unterschreiben, unterschreibt, hat unterschrieben | allekirjoittaa | signer
+die Unterschrift, -en | allekirjoitus | la signature
+untersuchen, untersucht, hat untersucht | tutkia | examiner
+unterwegs sein, ist unterwegs, war unterwegs, ist unterwegs gewesen | olla matkalla, olla liikkeellä | être en route, être en déplacement
+der Urlaub, -e | loma | les vacances (feminine), le congé
+
+--- V ---
+verabredet sein, ist verabredet, war verabredet, ist verabredet gewesen | olla sovittu tapaaminen | avoir rendez-vous
+die Veranstaltung, -en | tapahtuma, tilaisuus | la manifestation, l'événement (masculine)
+verbieten, verbietet, hat verboten | kieltää | interdire
+verboten sein | olla kiellettyä | être interdit / interdite
+verdienen, verdient, hat verdient | ansaita | gagner (de l'argent)
+der Verein, -e | yhdistys, seura | l'association (feminine), le club
+vereinbaren, vereinbart, hat vereinbart | sopia (ajasta, tapaamisesta) | convenir de, fixer (un rendez-vous)
+vergessen, vergisst, hat vergessen | unohtaa | oublier
+vergleichen, vergleicht, hat verglichen | verrata | comparer
+verkaufen, verkauft, hat verkauft | myydä | vendre
+der Verkehr (Sg.) | liikenne | la circulation, le trafic
+das Verkehrsmittel, - | kulkuväline, liikenneväline | le moyen de transport
+verletzen (sich), verletzt, hat verletzt | loukata (itsensä), loukkaantua | (se) blesser
+verlieben (sich), verliebt, hat verliebt | rakastua | tomber amoureux / amoureuse
+verlieren, verliert, hat verloren | kadottaa; hävitä | perdre
+vermieten, vermietet, hat vermietet | vuokrata (toiselle), antaa vuokralle | louer (donner en location)
+der Vermieter, - / die Vermieterin, -nen | vuokranantaja | le propriétaire / la propriétaire, le bailleur / la bailleresse
+verpassen, verpasst, hat verpasst | myöhästyä (junasta ym.), missata | rater, manquer
+verreisen, verreist, ist verreist | lähteä matkalle, matkustaa pois | partir en voyage
+verschieben, verschiebt, hat verschoben | siirtää (myöhemmäksi) | reporter, remettre à plus tard
+verschieden | erilainen, eri | différent / différente, divers / diverse
+die Verspätung, -en | myöhästyminen (Verspätung haben = olla myöhässä) | le retard
+verstehen, versteht, hat verstanden | ymmärtää | comprendre
+versuchen, versucht, hat versucht | yrittää, kokeilla | essayer
+der Vertrag, ¨-e | sopimus | le contrat
+viel, viele | paljon, monta | beaucoup (de)
+vielleicht | ehkä | peut-être
+der Vogel, ¨- | lintu | l'oiseau (masculine)
+voll | täysi, täynnä | plein / pleine
+der Volleyball, ¨-e | lentopallo | le volley-ball; le ballon de volley
+von | -sta/-stä, -lta/-ltä; (jonkun) oma (genetiivi) | de
+vor | edessä, eteen; ennen; sitten; vaille (kellonajasta) | devant; avant; il y a; moins (heure)
+vorbei | ohi | passé, fini; devant (passer devant)
+vorbereiten, bereitet vor, hat vorbereitet | valmistella, valmistautua | préparer
+vorgestern | toissapäivänä | avant-hier
+vorher | sitä ennen, aiemmin | avant, auparavant
+vorn(e) | edessä | devant, à l'avant
+der Vorname, -n | etunimi | le prénom
+der Vorschlag, ¨-e (einen Vorschlag haben / machen) | ehdotus (olla ehdotus / tehdä ehdotus) | la proposition (avoir / faire une proposition)
+vorsichtig | varovainen | prudent / prudente
+vorstellen (sich), stellt vor, hat vorgestellt | esitellä (itsensä); kuvitella | (se) présenter; s'imaginer
+vorwärts | eteenpäin | en avant
+
+--- W ---
+wach | hereillä | réveillé / réveillée, éveillé / éveillée
+der Wagen, - | auto, vaunu | la voiture, le wagon
+wählen, wählt, hat gewählt | valita; äänestää | choisir; voter; composer (un numéro)
+wahr | tosi | vrai / vraie
+wahrscheinlich | luultavasti, todennäköisesti | probablement
+der Wald, ¨-er | metsä | la forêt
+wandern, wandert, ist gewandert | vaeltaa, patikoida | faire de la randonnée
+wann | milloin | quand
+warm | lämmin | chaud / chaude
+warten, wartet, hat gewartet | odottaa | attendre
+warum | miksi | pourquoi
+was | mitä, mikä | que, quoi, qu'est-ce que
+die Wäsche (Sg.) | pyykki | le linge, la lessive
+waschen (sich), wäscht, hat gewaschen | pestä (peseytyä) | (se) laver
+das Wasser (Sg.) | vesi | l'eau (feminine)
+die Webseite, -n | verkkosivu | le site web, la page web
+wechseln, wechselt, hat gewechselt | vaihtaa | changer
+wecken, weckt, hat geweckt | herättää | réveiller
+weg / weg- | pois | parti / partie; (préfixe: éloignement)
+wegbringen, bringt weg, hat weggebracht | viedä pois | emporter, emmener
+wegfahren, fährt weg, ist weggefahren | lähteä (ajaa) pois | partir (en véhicule)
+weggehen, geht weg, ist weggegangen | lähteä pois | s'en aller, partir
+weglaufen, läuft weg, ist weggelaufen | juosta pois, karata | se sauver, s'enfuir
+wegmachen, macht weg, hat weggemacht | poistaa | enlever
+wegnehmen, nimmt weg, hat weggenommen | ottaa pois | enlever, prendre
+wegwerfen, wirft weg, hat weggeworfen | heittää pois | jeter
+der Weg, -e | tie, polku, reitti | le chemin
+wegen | takia, vuoksi | à cause de
+wehtun, tut weh, hat wehgetan | sattua, tehdä kipeää | faire mal
+weiblich | naispuolinen, nais- | féminin / féminine
+weich | pehmeä | mou / molle, doux / douce, tendre
+weil | koska | parce que
+der Wein, -e | viini | le vin
+weinen, weint, hat geweint | itkeä | pleurer
+weit | kaukana, kaukainen; väljä | loin; large
+weiter (z. B. weitermachen, weiterhelfen) | edelleen, eteenpäin (esim. jatkaa, auttaa eteenpäin) | plus loin; continuer à (p. ex. continuer, aider)
+welcher, welche, welches | mikä, kumpi | quel / quelle; lequel / laquelle
+die Welt, -en | maailma | le monde
+wenig, wenige | vähän, harva | peu (de)
+wenigstens | ainakin, edes | au moins
+wenn | kun; jos | quand, lorsque; si
+wer (wen, wem) | kuka (kenet, kenelle) | qui (qui, à qui)
+werden, wird, ist geworden | tulla joksikin | devenir
+die Werkstatt, ¨-en | korjaamo, verstas | l'atelier (masculine), le garage
+der Wettbewerb, -e | kilpailu | le concours, la compétition
+das Wetter (Sg.) | sää | le temps (qu'il fait), la météo
+wichtig | tärkeä | important / importante
+wie | miten, kuinka; kuin | comment; comme
+wie viel, wie viele | kuinka paljon, kuinka monta | combien (de)
+wieder | taas, jälleen | de nouveau, encore
+wiederholen, wiederholt, hat wiederholt | toistaa; kerrata | répéter; réviser
+das Wiederhören (auf Wiederhören) | kuulemiin | au revoir (au téléphone)
+das Wiedersehen (auf Wiedersehen) | näkemiin | au revoir
+willkommen | tervetuloa, tervetullut | bienvenu / bienvenue; bienvenue !
+der Wind, -e | tuuli | le vent
+windig | tuulinen | venteux / venteuse (il y a du vent)
+wirklich | todella, oikeasti | vraiment
+wissen, weiß, hat gewusst | tietää | savoir
+der Witz, -e | vitsi | la blague
+witzig | hauska, vitsikäs | drôle, amusant / amusante
+wo | missä | où
+woher | mistä | d'où
+wohin | minne, mihin | où (vers où)
+wohnen, wohnt, hat gewohnt | asua | habiter
+die Wohnung, -en | asunto | l'appartement (masculine)
+das Wohnzimmer, - | olohuone | le salon, la salle de séjour
+die Wolke, -n | pilvi | le nuage
+wollen, will, wollte, hat gewollt | haluta, tahtoa | vouloir
+der Workshop, -s | työpaja | l'atelier (masculine)
+das Wort, ¨-er | sana | le mot
+wunderbar | ihana, mahtava | merveilleux / merveilleuse
+der Wunsch, ¨-e | toive, toivomus | le souhait, le vœu
+wünschen, wünscht, hat gewünscht | toivoa, toivottaa | souhaiter
+die Wurst, ¨-e | makkara | la saucisse, le saucisson
+
+--- Z ---
+die Zahl, -en | luku, numero | le nombre, le chiffre
+zahlen, zahlt, hat gezahlt | maksaa | payer
+der Zahn, ¨-e | hammas | la dent
+zeichnen, zeichnet, hat gezeichnet | piirtää | dessiner
+zeigen, zeigt, hat gezeigt | näyttää, osoittaa | montrer
+die Zeit, -en | aika | le temps
+die Zeitschrift, -en | aikakauslehti | le magazine, la revue
+die Zeitung, -en | sanomalehti | le journal
+das Zelt, -e | teltta | la tente
+das Zentrum, Zentren | keskusta, keskus | le centre
+der Zettel, - | (paperi)lappu | le bout de papier, le billet
+das Zeugnis, -se | todistus | le bulletin (scolaire), le certificat
+ziehen, zieht, hat/ist gezogen | vetää; muuttaa (jonnekin) | tirer; déménager, partir vivre
+anziehen (sich), zieht an, hat angezogen | pukea (pukeutua) | (s')habiller, mettre (un vêtement)
+ausziehen (sich), zieht aus, hat/ist ausgezogen | riisua (riisuutua); muuttaa pois | (se) déshabiller, enlever (un vêtement); déménager
+das Ziel, -e | päämäärä, tavoite, määränpää | le but, l'objectif (masculine), la destination
+das Zimmer, - | huone | la chambre, la pièce
+der Zirkus, -se | sirkus | le cirque
+die Zitrone, -n | sitruuna | le citron
+der Zoo, -s | eläintarha | le zoo
+zu | luo, -lle; liian; kiinni | à, chez, vers; trop; fermé
+der Zucker (Sg.) | sokeri | le sucre
+zuerst | ensin, ensiksi | d'abord
+zufrieden | tyytyväinen | content / contente, satisfait / satisfaite
+der Zug, ¨-e | juna | le train
+zuhören, hört zu, hat zugehört | kuunnella | écouter
+zuletzt | viimeksi, lopuksi | en dernier, pour finir
+zum Beispiel | esimerkiksi | par exemple
+zumachen, macht zu, hat zugemacht | sulkea, panna kiinni | fermer
+zurück | takaisin | de retour, en arrière
+zurückfahren, fährt zurück, ist zurückgefahren | ajaa/matkustaa takaisin | rentrer, retourner (en véhicule)
+zurückgeben, gibt zurück, hat zurückgegeben | antaa takaisin, palauttaa | rendre
+zurückgehen, geht zurück, ist zurückgegangen | mennä takaisin | retourner
+zurückkommen, kommt zurück, ist zurückgekommen | tulla takaisin, palata | revenir
+zurücklaufen, läuft zurück, ist zurückgelaufen | juosta/kävellä takaisin | retourner (à pied, en courant)
+zusammen | yhdessä; yhteensä | ensemble; en tout
+zwischen | välissä, väliin | entre
